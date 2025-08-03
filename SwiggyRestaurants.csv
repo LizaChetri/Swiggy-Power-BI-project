@@ -1,0 +1,1001 @@
+RestaurantName,Cuisine,Rating,NumberofRatings,NumberofOffers,Area,PureVeg,Location
+Indian Rasoi,Burgers- Pastas,2.9,10+ ratings,0,Kamla Nagar,Yes,Agra
+Sarvaheet,North Indian- Kebabs,--,Too Few Ratings,1,Jakhan,No,Agra
+The Kitchen House,Fast Food- Beverages,--,Too Few Ratings,1,Kamla Nagar,No,Agra
+Shri Bankey Bihari Misthan Bhandar,Desserts- Beverages,4.2,1K+ ratings,1,Kamla Nagar,Yes,Agra
+Shri Thakur Ji Misthan Bhandar,Desserts- Sweets,4,3 ratings,2,Kamla Nagar,Yes,Agra
+Brijbhog Mishthan Bhandar,Sweets- Street Food,4.5,1K+ ratings,2,Kamla Nagar,Yes,Agra
+Pizza Cave,Pizzas,4.2,500+ ratings,2,Kamla Nagar,Yes,Agra
+Le Vera Pizza,Pizzas,4.4,100+ ratings,1,Kamla Nagar,Yes,Agra
+Unavu South Indian,South Indian- Snacks,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Anna Samrat Restaurant,South Indian- North Indian,3.2,50+ ratings,2,Kamla Nagar,Yes,Agra
+Shri Shyam Ji Shakahari Bhojanalaya,Indian- North Indian,3.8,50+ ratings,2,Gajanan Nagar,Yes,Agra
+Food Costa,Chinese- Indian,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Cakes,Bakery,NEW,,2,Agra,No,Agra
+Kings,Indian,4.3,1K+ ratings,2,Kamla Nagar,Yes,Agra
+Jain Cake Wakers,Bakery,3.3,20+ ratings,1,Kamla Nagar,Yes,Agra
+Shay Hub,Pizzas- Pastas,3.8,10+ ratings,3,Kamla Nagar,Yes,Agra
+Yum Yum Vada Pav No.1,North Indian,3.6,100+ ratings,1,Kamla Nagar,Yes,Agra
+Little Maggi Point,Snacks- Chinese,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+D'Zurt Cafe,Beverages- Burgers,4.7,3 ratings,3,Kamla Nagar,Yes,Agra
+Hotel DD Suites,Indian- Continental,4.1,9 ratings,1,Kamla Nagar,Yes,Agra
+Talk Of The Town,Chinese- Pizzas,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Karchi,North Indian- Mughlai,4.3,1K+ ratings,1,Kamla Nagar,No,Agra
+Chows Kitchen,Chinese- Thai,4,100+ ratings,1,Kamla Nagar,No,Agra
+Sri Dauji Chatpataa,Desserts,4.3,1K+ ratings,1,Kamla Nagar,Yes,Agra
+Chaat Bazar,Chaat- Sweets,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Guru Kripa Bhojnalaya,North Indian- Snacks,4,1K+ ratings,1,Kamla Nagar,Yes,Agra
+Vibe Hai Vibe Hai,Italian-American- Fast Food,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Cake Farmer,Desserts,--,Too Few Ratings,1,Kamla Nagar,No,Agra
+Shere Punjab Hotel & Restaurant,Chinese- North Indian,3.3,20+ ratings,2,Kamla Nagar,No,Agra
+Yatika Pizza And Garlic,Pizzas- Burgers,--,Too Few Ratings,2,Kamla Nagar,Yes,Agra
+Tongue Twister,Chinese- Fast Food,4.3,500+ ratings,1,Kamla Nagar,Yes,Agra
+Shri Radhay Chaat Bhandar,Chaat- Fast Food,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Shri Vrindavan Pan Bhandar,Paan,--,Too Few Ratings,1,Kamla Nagar,Yes,Agra
+Celebration Restaurant,Chinese- Desserts,4,100+ ratings,1,Kamla Nagar,Yes,Agra
+Momos Point,Chinese,3.9,6 ratings,1,Kamla Nagar,No,Agra
+Urban Vada Pav,Snacks- Rolls & Wraps,4.5,20+ ratings,3,Kamla Nagar,Yes,Agra
+Garlick,Snacks- Fast Food,4.7,6 ratings,1,Kamla Nagar,Yes,Agra
+Subway,Healthy Food- Salads,4.1,5K+ ratings,1,Motera,No,Ahmedabad
+The Chocolate Room,Bakery- Desserts,4.1,500+ ratings,4,Motera,Yes,Ahmedabad
+Domino'S Pizza,Pizzas- Italian,4.3,1K+ ratings,3,Motera,No,Ahmedabad
+PVR Cafe,Snacks- Fast Food,4.4,50+ ratings,3,Motera,No,Ahmedabad
+Khichdi Etc,North Indian- Gujarati,4.5,5K+ ratings,4,Motera,Yes,Ahmedabad
+Theobroma,Bakery- Desserts,4.4,50+ ratings,2,Motera,No,Ahmedabad
+Drink Eat Fun,Pizzas- Pastas,3.9,20+ ratings,1,Motera,Yes,Ahmedabad
+Dangee Dums,Desserts- Bakery,4.4,500+ ratings,2,Motera,Yes,Ahmedabad
+Taste The Best. The Test Of New Generation.,Indian- Biryani,4.3,50+ ratings,1,MOTERA,No,Ahmedabad
+Patel S Cafe Bar,Continental,4.3,100+ ratings,1,Ghatlodiya,Yes,Ahmedabad
+Shree Marutinandan,Chinese- Indian,4,100+ ratings,3,Motera,Yes,Ahmedabad
+Gwalia Sweets & Fast Food,Sweets- North Indian,4.5,10K+ ratings,3,Motera,Yes,Ahmedabad
+Anna Dosa Point,South Indian,4.2,100+ ratings,1,Motera,Yes,Ahmedabad
+Dev'S Kitchen,Thalis- North Indian,4.7,100+ ratings,1,Motera,Yes,Ahmedabad
+South Express,South Indian,3.8,100+ ratings,1,Motera,Yes,Ahmedabad
+Mehfil Biryani By Zakir Khan,Biryani- Mughlai,3.6,10+ ratings,4,Motera,No,Ahmedabad
+Rose Buddy Cafe,Snacks- Pizzas,3.9,2 ratings,3,Motera,No,Ahmedabad
+Ritu'S Cafe By Trc,Beverages- Italian,4.2,3 ratings,1,Motera,Yes,Ahmedabad
+Spicy Bite Fast Food,Fast Food- Pizzas,--,Too Few Ratings,1,Aastha Square,Yes,Ahmedabad
+Veeru'S Non Veg,North Indian- Beverages,4.2,1K+ ratings,1,D Colony,No,Ahmedabad
+Gaytri Vegitable Natural Soup And Juice Center,Street Food,4.8,50+ ratings,2,Motera,Yes,Ahmedabad
+Shanti Restaurant,Indian- Chinese,4.2,5K+ ratings,3,Motera,No,Ahmedabad
+Praful Sweets And Namkeen,Sweets- Snacks,4.6,1K+ ratings,1,Motera,Yes,Ahmedabad
+South End Corner,South Indian- Chinese,3.5,20+ ratings,1,Motera,Yes,Ahmedabad
+Raj The Biryani House,Biryani- North Indian,4,1K+ ratings,4,Motera,No,Ahmedabad
+Non Veg Express,Indian- Chinese,4.2,1K+ ratings,4,Motera,No,Ahmedabad
+Qtb Barbecue,Tandoor- Snacks,4.4,10+ ratings,3,Motera,Yes,Ahmedabad
+Mocacabana,Beverages- Continental,3.9,100+ ratings,1,Motera,Yes,Ahmedabad
+Grill Kitchen - Motera,North Indian- Italian,4,9 ratings,1,Motera,Yes,Ahmedabad
+Toasttree Sandwiches,Grill- Fast Food,--,Too Few Ratings,1,MOTERA,Yes,Ahmedabad
+KFC,American- Snacks,4.3,100+ ratings,2,Khatla,No,Aizawl
+Cozy Den Restaurant,Indian,3.2,9 ratings,3,Khatla,No,Aizawl
+Cake Craft By Mango Masala,Burgers- Pizzas,4.2,1K+ ratings,2,Hathi Bhata,No,Ajmer
+Mango Masala Restaurant,Pastas- Chinese,4.3,1K+ ratings,2,Hathi Bhata,Yes,Ajmer
+Pizzeria By Mango Masala,Pizzas,4.2,100+ ratings,2,Hathi Bhata,No,Ajmer
+Mango Curry,Chinese- South Indian,4.4,500+ ratings,2,Hathi Bhata,No,Ajmer
+Coffo Holic,North Indian,4.9,10+ ratings,1,Hathi Bhata,Yes,Ajmer
+Shiv Shakti Ice Cream Parlour,Desserts,--,Too Few Ratings,1,Gaddi Malian,Yes,Ajmer
+FYi,Indian- Fast Food,4.2,50+ ratings,2,Hathi Bhata,Yes,Ajmer
+1944 Restaurants - The Hocco Kitchen,North Indian- Pizzas,4.1,100+ ratings,2,Hathi Bhata,Yes,Ajmer
+Dilliwala Family Dhabha,North Indian- Chinese,4.4,100+ ratings,3,Gaddi Malian,Yes,Ajmer
+De Bites,Italian-American- Fast Food,4.7,20+ ratings,2,Gaddi Malian,Yes,Ajmer
+Gangaur Pizza Point,Pastas- Chinese,4,1K+ ratings,1,Hathi Bhata,Yes,Ajmer
+Jain Restaurant,South Indian- Snacks,3.6,20+ ratings,2,Banda Locality,Yes,Banda
+Spicy Pizza Corner,Italian- Pizzas,4.2,100+ ratings,1,Banda Locality,Yes,Banda
+SS Bakery,Bakery- Desserts,4.6,20+ ratings,1,Banda Locality,No,Banda
+Rendezvous Restaurant,Indian- Chinese,3.8,20+ ratings,1,Banda Locality,Yes,Banda
+Basu Sweets,Sweets- Indian,4.4,100+ ratings,1,Banda Locality,Yes,Banda
+Biryani Fusion,Biryani,4.1,100+ ratings,1,Banda Locality,No,Banda
+Cake Bakery Banda,Cakes and Pastries- Bakery,3.8,50+ ratings,2,Banda Locality,Yes,Banda
+Gyan Vaishnav,North Indian- Salads,4,50+ ratings,2,Banda Locality,No,Banda
+SS Bakers,Bakery- Pizzas,3.8,20+ ratings,1,Banda Locality,No,Banda
+S S Residency,North Indian- Chinese,3.9,50+ ratings,1,Banda Locality,No,Banda
+Jain Bakery & Confectioners,Bakery,4.1,10+ ratings,1,Banda Locality,Yes,Banda
+Maa Annapurna Rasoi,Indian,3.8,100+ ratings,1,Banda Locality,Yes,Banda
+Banda City Kitchen,Indian- Biryani,3.9,50+ ratings,1,Banda Locality,No,Banda
+Guptaji Domin'S Pizza Outlet,Italian- Continental,4.2,50+ ratings,1,Banda Locality,Yes,Banda
+Al-Baik,Snacks- American,3.6,20+ ratings,1,Banda Locality,No,Banda
+Vaishnav Bhojnalay,North Indian,2.9,8 ratings,1,Banda Locality,Yes,Banda
+The Central Jail Family Restaurant,Fast Food- Chinese,3.8,100+ ratings,2,Banda Locality,No,Banda
+Blue Heaven Pizza & Fast Food Family Restaurant,Italian- Pizzas,3.4,20+ ratings,2,Banda Locality,Yes,Banda
+The Red Zone Family Restaurant,South Indian- Chinese,3.9,50+ ratings,2,Banda Locality,Yes,Banda
+Shree Ram Janki Bhojnalaya,South Indian- Indian,--,Too Few Ratings,1,Banda Locality,Yes,Banda
+Mini Restaurant & Biryani Corner,North Indian- Chinese,2.9,20+ ratings,1,Banda Locality,No,Banda
+Krishna Sweets & Dairy Product,Snacks- Indian,4.1,10+ ratings,2,Banda Locality,Yes,Banda
+Down Town Pizza,Chinese- Snacks,--,Too Few Ratings,1,Banda Locality,Yes,Banda
+The Green Valley,North Indian- Chinese,3.9,100+ ratings,2,Banda Locality,Yes,Banda
+South Indian Food Corner,South Indian,3.6,10+ ratings,1,Banda Locality,No,Banda
+Sri Udupi Food Hub,South Indian- North Indian,4.3,500+ ratings,5,Gandhi Nagar,Yes,Bangalore
+Brik Oven - Original Sourdough Pizzas,Italian- Pizzas,4.3,1K+ ratings,3,High Grounds,No,Bangalore
+Zed The Baker,Continental- Bakery,4.1,100+ ratings,4,High Grounds,No,Bangalore
+Shri Manjunatha Cafe,South Indian- Chinese,NEW,,5,Indiranagar,Yes,Bangalore
+Momos Cabin,Chinese- Fast Food,4.8,3 ratings,1,Cubbon Pete,Yes,Bangalore
+The Burrow,Pizzas- Healthy Food,3.7,8 ratings,1,Gandhi Nagar,No,Bangalore
+The Weekly Brewhouse & Kitchen,Pastas- Pizzas,5,4 ratings,1,Hosur,No,Bangalore
+Satkar Restaurant,North Indian,4.4,10K+ ratings,1,Janakpuri,Yes,Bareilly
+Food Factory,Burgers- Pastas,4,20+ ratings,1,Gangapur,No,Bareilly
+Oh So Desi (Pind Da Dhabaa),North Indian- Chinese,4,9 ratings,2,Janakpuri,Yes,Bareilly
+Xero Degree,Snacks- Fast Food,3.9,4 ratings,1,Janakpuri,No,Bareilly
+Khanabadosh,Mughlai- Biryani,3.6,100+ ratings,2,Gangapur,No,Bareilly
+Prakash Sweets-Ice Cream-Bakers,Sweets- Snacks,4.3,5K+ ratings,1,Gangapur,Yes,Bareilly
+The Grey House,Chinese- Continental,4.2,1K+ ratings,1,Janakpuri,No,Bareilly
+Combo King,Mughlai- North Indian,3.5,20+ ratings,1,Jankpuri,No,Bareilly
+Feel Hungry,Chinese- Snacks,3.9,50+ ratings,3,Gangapur,No,Bareilly
+Bollywood Waffle,Ice Cream- Beverages,3.9,20+ ratings,1,Jankpuri,No,Bareilly
+Chaatu Specialty Foods,North Indian- Chinese,3.8,50+ ratings,1,Gangapur,Yes,Bareilly
+Butterfly Restaurant,Beverages- Burgers,NEW,,1,Janakpuri,No,Bareilly
+Aahar Junction,North Indian,4.9,8 ratings,2,Gangapur,Yes,Bareilly
+Ram Prakash Kachori Wale,North Indian,3.8,500+ ratings,1,Gangapur,Yes,Bareilly
+Ajanta,Sweets- Bakery,4.6,1K+ ratings,1,Gangapur,Yes,Bareilly
+Yammy Licious,Burgers- Fast Food,--,Too Few Ratings,2,Greater Green Park Colony,No,Bareilly
+Happy Stomach,Chinese- Beverages,4,10+ ratings,1,Janakpuri,Yes,Bareilly
+Dough & Sauce Pizza,Pizzas,4.2,20+ ratings,1,Gangapur,Yes,Bareilly
+Burger Buddy,Burgers- Snacks,4,100+ ratings,5,Gulmohar Colony,No,Bhopal
+The Good Bowl,Biryani- North Indian,4.2,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+FreshMenu,North Indian- Biryani,3.4,10+ ratings,4,Gulmohar Colony,No,Bhopal
+"Faasos - Wraps, Rolls & Shawarma",Kebabs- Fast Food,4.2,5K+ ratings,5,Gulmohar Colony,No,Bhopal
+LunchBox - Meals And Thalis,Biryani- North Indian,4.2,1K+ ratings,4,Gulmohar Colony,No,Bhopal
+Pure Veg Meals By Lunchbox,Biryani- North Indian,4,100+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Faasos' Signature Wraps & Rolls,Fast Food- Snacks,4.1,50+ ratings,5,Gulmohar Colony,No,Bhopal
+Mehfil By Behrouz,Biryani- North Indian,4,20+ ratings,5,Gulmohar Colony,No,Bhopal
+Behrouz Biryani,Biryani- North Indian,4.2,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Food Of Dreams,Indian,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Winni Cakes & More,Bakery- Sweets,3.8,100+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Wow! Momo,Tibetan- Healthy Food,4,50+ ratings,4,Gulmohar,No,Bhopal
+Sweet Truth - Cake And Desserts,Snacks- Bakery,4.3,1K+ ratings,4,Gulmohar Colony,No,Bhopal
+Rolls Mania,Indian- North Indian,4.3,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Oven Story Pizza - Standout Toppings,Pizzas- Pastas,4.1,500+ ratings,5,Gulmohar Colony,No,Bhopal
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",Beverages- Desserts,4,100+ ratings,5,GULMOHAR,Yes,Bhopal
+Barbeque Nation,North Indian- Barbecue,3.7,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Biryani Junction,North Indian- Combo,2.8,10+ ratings,4,Gulmohar Colony,No,Bhopal
+"Aesthetic'S Nutrition - Healthy Food, Simplified",Healthy Food- Salads,4.2,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Firangi Bake,Pizzas- Pastas,3.7,20+ ratings,4,Gulmohar Colony,No,Bhopal
+The Crush Coffee,Beverages- North Indian,3.5,10+ ratings,4,Gulmohar Colony,Yes,Bhopal
+UBQ By Barbeque Nation,North Indian- Barbecue,3.8,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Idli Street,South Indian- Snacks,3.9,100+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Kiki'S Cafe,North Indian- Pizzas,2.4,5 ratings,5,Gulmohar Colony,Yes,Bhopal
+Chalu Chinese,Chinese- Snacks,3.3,500+ ratings,4,Gulmohar Colony,No,Bhopal
+Rk Home Bakery,Bakery,4.1,10+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Chef Sandwich Indori,Indian,3.3,10+ ratings,4,D Mart,Yes,Bhopal
+Turning Point Family Restaurant,North Indian,--,Too Few Ratings,5,Gulmohar Colony,No,Bhopal
+Student Ka Restaurant,Indian,3.4,6 ratings,4,Gulmohar Colony,No,Bhopal
+Bread & Better Cafe,Snacks- Pizzas,4.3,10+ ratings,4,Gulmohar Colony,Yes,Bhopal
+MurGhee,Biryani- North Indian,3.3,50+ ratings,5,Gulmohar Colony,No,Bhopal
+Suruchi'S,Chinese- Pizzas,3.5,100+ ratings,5,gulmohar colony,Yes,Bhopal
+Berchha Dairy And Sweet,Desserts,3.4,10+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Shiva Foods,Snacks,4.1,10+ ratings,5,Gulmohar,Yes,Bhopal
+Biryani Delight,Biryani,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Avs Mitram,North Indian- Indian,4,20+ ratings,4,Gulmohar Colony,Yes,Bhopal
+Fusion Meals,Indian- North Indian,4.7,10+ ratings,5,Gulmohar Colony,No,Bhopal
+Cafe Nadora By Urban Tohfa,Punjabi- Beverages,4.2,50+ ratings,4,Gulmohar Colony,Yes,Bhopal
+Dharni'S Food,North Indian- South Indian,3.5,100+ ratings,4,Gulmohar Colony,Yes,Bhopal
+VS Foodie Corner,Chinese,3.9,10+ ratings,5,Gulmohar Colony,No,Bhopal
+"Squirrell- The Food Hive, Rohit Nagar",North Indian- Fast Food,3.7,500+ ratings,4,Gulmohar Colony,Yes,Bhopal
+Zaffran'S Hakeem,Tandoor- Thalis,1.9,20+ ratings,5,Gulmohar Colony,No,Bhopal
+Kashish Momos Fast Food Centre,Chinese- Fast Food,3.4,9 ratings,5,Gulmohar Colony,Yes,Bhopal
+Dilli Ki Gali Parathe Wali,Punjabi- Biryani,3.6,10+ ratings,4,Gulmohar Colony,Yes,Bhopal
+The Indian Momo Co.,Chinese,--,Too Few Ratings,5,Gulmohar Colony,No,Bhopal
+Hotel Tirupati Balaji,North Indian- Indian,3.9,100+ ratings,4,Gulmohar Colony,Yes,Bhopal
+Shamby'S Cafe,Pizzas- Snacks,3.5,20+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Shiv Ganga Bhojnalay,North Indian- Indian,--,Too Few Ratings,4,Gulmohar Colony,Yes,Bhopal
+Kyu Aagaya Swaad,North Indian- Snacks,2.1,6 ratings,4,Gulmohar Colony,No,Bhopal
+Winter Rose Cafe,North Indian- Pizzas,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Sai Ram TTB Greens,Indian- Chinese,--,Too Few Ratings,4,Gulmohar Colony,Yes,Bhopal
+Woods Inn Restaurant,Fast Food,4.6,50+ ratings,4,Gandhi Nagar,No,Bhopal
+Al Fresco,North Indian- Chinese,3.7,20+ ratings,5,Gulmohar Colony,No,Bhopal
+The Momo Story,Chinese- Burgers,3.5,6 ratings,4,Gulmohar Colony,Yes,Bhopal
+TASTE OF GWALIOR CAFE & RESTAURANT,Beverages- Chinese,--,Too Few Ratings,4,Gulmohar Colony,Yes,Bhopal
+The Asian- Indian Cafe,South Indian- Chinese,2.9,10+ ratings,5,Gulmohar Colony,Yes,Bhopal
+18 Till We Die,Pizzas- Italian,4.2,10+ ratings,4,Gulmohar Colony,Yes,Bhopal
+Cook Dooh Kooh,North Indian- Mughlai,3.9,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Mitho Wok Street,Asian- Chinese,4.2,100+ ratings,4,Gulmohar Colony,No,Bhopal
+Countryside Meadows The Garden Restaurant,North Indian- Chinese,3.8,50+ ratings,5,Gulmohar Colony,No,Bhopal
+Dosa Crush,South Indian,2.6,5 ratings,4,Gulmohar colony,Yes,Bhopal
+The Lazy Spoon,North Indian- Chinese,3.5,20+ ratings,5,Gulmohar Colony,No,Bhopal
+Lost Iin Taste,North Indian- Chinese,3.4,50+ ratings,4,Gulmohar Colony,No,Bhopal
+Veg Protein Soya Chaap Corner,North Indian- Fast Food,4,100+ ratings,5,Gulmohar Colony,Yes,Bhopal
+Page 3 Multicuisine Restaurant,Chinese- Italian-American,NEW,,5,Gulmohar,No,Bhopal
+Wow Grills,Tandoor- Indian,3.5,10+ ratings,4,Gulmohar Colony,No,Bhopal
+Bhookha Burger,Burgers- Beverages,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Indian Bawarchi,North Indian- Indian,--,Too Few Ratings,4,Gulmohar Colony,Yes,Bhopal
+Have Some Fries,Snacks- Beverages,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+The Paratha Box,Indian- Beverages,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Thirsty Stories,Beverages,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Biryani Da Theka,Biryani- North Indian,3.1,10+ ratings,4,Gulmohar Colony,No,Bhopal
+Sadhna'S Kitchen,Indian,3.9,100+ ratings,5,Gulmohar Colony,Yes,Bhopal
+AROMA KITCHEN,Chinese- Beverages,--,Too Few Ratings,5,Gulmohar Colony,No,Bhopal
+Sugya FoodTask,North Indian- Indian,4.2,9 ratings,4,Gulmohar Colony,No,Bhopal
+Nannu'S Cafe,Chinese- Thalis,--,Too Few Ratings,4,Gulmohar Colony,No,Bhopal
+Anokhi Handi,Biryani,3.8,20+ ratings,4,Gulmohar Colony,No,Bhopal
+Bento Daily,Healthy Food- Chinese,4.2,20+ ratings,5,Gulmohar Colony,No,Bhopal
+Bento Kitchen,North Indian- Chinese,3.3,1K+ ratings,5,Gulmohar Colony,No,Bhopal
+Betabawarchi,Fast Food- Pastas,4.1,5 ratings,5,Gulmohar Colony,No,Bhopal
+Food Boutique,Indian- Chinese,2.7,7 ratings,4,Gulmohar Colony,Yes,Bhopal
+Hotel Tara Tarini,Chinese- Tandoor,4,100+ ratings,5,AIIMS Hospital,No,Bhubaneswar
+BurpEaze,Healthy Food,4.5,500+ ratings,5,Gajapati Nagar,No,Bhubaneswar
+Foodland,Indian- Chinese,3.9,5 ratings,4,Gajapati Nagar,No,Bhubaneswar
+Sandhyarani Hotel,Oriya- North Indian,4.2,1K+ ratings,5,Gajapati Nagar,No,Bhubaneswar
+Smog Resto Cafe,North Indian- Chinese,4.4,500+ ratings,5,Gajapati Nagar,No,Bhubaneswar
+Brown N Cream By Swosti Grand,Desserts- Bakery,4.2,500+ ratings,5,Kharvela Nagar,No,Bhubaneswar
+Michael'S Kitchen,Asian- Indian,4.2,500+ ratings,5,Gajapati Nagar,No,Bhubaneswar
+DAYLIFE CAFE,Bakery- Continental,4.2,20+ ratings,5,Block Chhaka,No,Bhubaneswar
+Brown N Cream By Swosti Premium,Bakery- Snacks,4.4,100+ ratings,5,Jaydev Vihar,No,Bhubaneswar
+Moody Blues,North Indian- Chinese,4.5,1K+ ratings,4,Gajapati Nagar,No,Bhubaneswar
+Bowl Xpert,Healthy Food,4.6,20+ ratings,5,Gajapati Nagar,No,Bhubaneswar
+Tasty Dots,North Indian- Chinese,3.8,10+ ratings,4,Gajapati Nagar,No,Bhubaneswar
+Biryani Home,Biryani- North Indian,3.7,50+ ratings,4,Gajapati Nagar,No,Bhubaneswar
+Hotel Atmaram,Chinese,4,20+ ratings,4,Gajapati Nagar,No,Bhubaneswar
+Filling Station,Indian,4.7,5 ratings,4,Kharvela Nagar,No,Bhubaneswar
+Kalpana Hotel And Kolkata Roll,Biryani- Ice Cream,3.6,100+ ratings,4,Gajapati Nagar,No,Bhubaneswar
+Baba Jeleswar Sweets,Snacks,--,Too Few Ratings,5,Gajapati Nagar,Yes,Bhubaneswar
+Hiya Foods Biryani Wala,North Indian- Indian,4,100+ ratings,5,Mancheswar,No,Bhubaneswar
+Jay Jagannatha Sugercane Juice Cente,Indian- Biryani,4.2,4 ratings,4,Gajapati Nagar,No,Bhubaneswar
+Cup Of Tea,Fast Food- Cafe,NEW,,4,Jaydev Vihar,Yes,Bhubaneswar
+All'69,Fast Food- Beverages,--,Too Few Ratings,4,Kharvela Nagar,No,Bhubaneswar
+Mug Restaurant,Chinese- Biryani,--,Too Few Ratings,4,Gajapati Nagar,No,Bhubaneswar
+Aangan Premium,Indian- Chinese,4.4,100+ ratings,4,Gajapati Nagar,No,Bhubaneswar
+Babu Bhai Chat,Street Food- Indian,--,Too Few Ratings,4,Mancheswar,Yes,Bhubaneswar
+Ofo Foods,Chinese- Biryani,4.3,100+ ratings,5,Gajapati Nagar,No,Bhubaneswar
+Fiza Biryani House,Biryani- Chinese,4.2,1K+ ratings,5,Central Goa,No,Central-Goa
+Udupi Sukh Sagar,South Indian- Indian,4.3,1K+ ratings,5,BITS Goa,Yes,Central-Goa
+Shri Krishna Pure Veg Restaurant,Indian,4.2,5K+ ratings,4,Dabolim,Yes,Central-Goa
+Hotel Laila Bar And Restaurant,Indian,4.3,500+ ratings,4,Dabolim,No,Central-Goa
+Pizza Wings,Italian- Beverages,4.3,1K+ ratings,5,Dabolim,No,Central-Goa
+Punjabi Dhaba,North Indian- Punjabi,4,1K+ ratings,4,Dabolim,No,Central-Goa
+Hotel Welcome,Indian- Chinese,4,100+ ratings,5,Dabolim,No,Central-Goa
+Baowich,Chinese- Continental,4.2,1K+ ratings,5,Dabolim,No,Central-Goa
+The Deeplicious,North Indian- Chinese,4.1,100+ ratings,4,Gajanan Kerkar,No,Central-Goa
+Cafe Chai Coffee,Cafe- Indian,4.2,500+ ratings,5,Dabolim,No,Central-Goa
+South Indian By Morgans Place,South Indian,4.6,1K+ ratings,5,Central Goa,Yes,Central-Goa
+Morgans Place,Continental- Italian,4.3,1K+ ratings,5,Central Goa,No,Central-Goa
+Delhi Junction,North Indian,3.9,1K+ ratings,5,Dabolim,No,Central-Goa
+Grand Darbar,Indian,3.5,100+ ratings,4,Dabolim,No,Central-Goa
+Southy Dosa,South Indian- North Indian,4.5,50+ ratings,5,Aguada Siolim Rd,No,Central-Goa
+Seafood Garage,Indian- Goan,3.8,100+ ratings,4,Dabolim,No,Central-Goa
+Chenni'S Hot Kitchen,South Indian,5,3 ratings,5,Central Erode,No,Chennai
+Juice Hive,Juices- Snacks,3.5,20+ ratings,5,Gandhi Nagar,No,Chennai
+Aashirwad Restaurant,North Indian- Fast Food,4,20+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Mumma'S Kitchen,North Indian- Snacks,NEW,,5,Central Chittorgarh,Yes,Chittorgarh
+Dosa Junction,South Indian- Fast Food,4.3,6 ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Cafe Nirvana,Pizzas- Chinese,3.3,100+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Jai Bhavani Vadapav,Chinese- North Indian,4,100+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Hot Pizza,Pizzas- Beverages,3.3,50+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+The Aroma Cafe,Pizzas- Chinese,3.3,20+ ratings,5,Gandhi Nagar,Yes,Chittorgarh
+Pizza Burst,Pizzas- Salads,3.2,50+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Nawab'S,Pastas- North Indian,3.6,50+ ratings,4,Central Chittorgarh,No,Chittorgarh
+Burger House,Burgers- Fast Food,4.3,20+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Balaji Restaurant And Fast Food,North Indian,5,100+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Aagha Nonveg & Veg Restaurant,Chinese- Biryani,4,500+ ratings,4,Central Chittorgarh,No,Chittorgarh
+The Muni Cafestro,Beverages- North Indian,3.2,5 ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Rituraj Vatika Restaurants,North Indian,3.8,100+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Ahamdabadi Tawa Restaurant,Kebabs,--,Too Few Ratings,5,Central Chittorgarh,No,Chittorgarh
+In Box 09 Cafe And Restro,Chinese- Italian,2.8,20+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Bherunath Pav Bhaji,Burgers- Snacks,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+The Oxy Cafe Restaurant,Pastas- Ice Cream,3.4,10+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Omni Ice Cream,Indian,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+MUMMA'S RESTAURANT,Chinese- Indian,3.9,6 ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Jain Food Court,North Indian- Thalis,4.5,100+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Mahalaxmi Bakery,North Indian- Bakery,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Maharaja'S Kitchen And Mocktail House,Beverages- Indian,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+NDR Group Foods,Burgers- Ice Cream,2.7,10+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Guru Nanak Bakers And Cake Plaza,Burgers- Pizzas,3.7,20+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Guru Nanak Bakery,Bakery- Pizzas,4.1,100+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Bombay Bakery,North Indian,4.1,100+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Devnarayan Fariyali Khichdi,Indian- Snacks,3.8,10+ ratings,4,Gandhi Nagar,Yes,Chittorgarh
+Maa Annapurna Bhojnalay,Rajasthani- Thalis,3.8,6 ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Hotel Padmini,Chinese- Biryani,3.7,20+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Italian Pie,Pastas- Pizzas,3.5,50+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Hotel Kamal Family Restaurant,North Indian- Rajasthani,4.1,100+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Mayur Soup & Ice Cream Corner,Fast Food- Burgers,2.4,4 ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Nakoda Restaurant,North Indian- Biryani,2.9,100+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Kathi Roll Junction,Snacks,3.5,50+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Chandika Ice Gola And Juice,Ice Cream- Juices,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Ashirwad Dining Hall,Biryani,4.2,500+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Momoland An Intiative Of 3 Ace Corpo,Chinese- Fast Food,3.4,5 ratings,4,Central Chittorgarh,Yes,Chittorgarh
+The Egg Home,Indian- Snacks,4.3,10+ ratings,4,Gandhi Nagar,No,Chittorgarh
+The Royal Taste Of Fort City,Pizzas,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Dhaker Ki Dhani,North Indian,3.1,10+ ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Hotel Shree Karni Vilas,Indian- Beverages,3.5,50+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Kalaka Mata Fast Food Corner,North Indian- Chinese,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Kornittos Pizza Desert & Cakes,Pizzas- Burgers,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Sweet Way Bakery,Bakery- Burgers,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Mama Mia Pizzeria,Pizzas- Burgers,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Balaji Dining & Snacks Corner,Indian- Snacks,3.7,5 ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Cake By Chef,Bakery,4.1,4 ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Inbox 09 Restaurant,Indian- Chinese,3.5,5 ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Hot Chilli Chicken,North Indian- Mughlai,2.5,4 ratings,4,Central Chittorgarh,No,Chittorgarh
+Pritam Pratha Palace,North Indian,3.6,100+ ratings,5,Central Chittorgarh,Yes,Chittorgarh
+Meera Restaurant,North Indian,4,100+ ratings,4,Central Chittorgarh,No,Chittorgarh
+Eggwalazzz,North Indian,3,100+ ratings,4,Central Chittorgarh,No,Chittorgarh
+3Ace Corpo,Chinese,--,Too Few Ratings,4,Central Chittorgarh,Yes,Chittorgarh
+The Delight Cafe,Beverages- Italian-American,3.2,6 ratings,4,Central Chittorgarh,Yes,Chittorgarh
+Aryen Biryani,Biryani- North Indian,4.3,1K+ ratings,5,Ganapathy,No,Coimbatore
+Cardiff Cafe,Chinese- Burgers,4.1,500+ ratings,5,Hope College,No,Coimbatore
+Hotel Sri Balaji,South Indian,4.2,500+ ratings,4,Ganapathy,No,Coimbatore
+Nalam Natural Drinks,Beverages- Juices,4.3,100+ ratings,5,Jeeva Nagar,No,Coimbatore
+NIC Ice Creams,Ice Cream- Desserts,4.6,1K+ ratings,5,Agriculture Univeristy,Yes,Coimbatore
+Pizza Hut,Pizzas,4.1,5K+ ratings,4,Ganapathy,No,Coimbatore
+Woow Biriyani,Biryani,4.1,5K+ ratings,5,Ganapathy,No,Coimbatore
+Suchow Chinese Restaurant,Chinese,4.3,1K+ ratings,5,Ganapathy,No,Coimbatore
+Street Of Arabia,Arabian- Biryani,2.6,20+ ratings,5,Ganapathy,No,Coimbatore
+Anandha Bakery,Bakery,4.2,20+ ratings,4,Ganapathy,No,Coimbatore
+KR Bakes,Bakery,4.3,50+ ratings,4,Ganapathy,No,Coimbatore
+Grill House By Fipola,Grill- Seafood,4.3,100+ ratings,4,Ganapathy,No,Coimbatore
+Egg Stickaa,Indian- Snacks,4.2,20+ ratings,5,Ganapathy,No,Coimbatore
+Meet U There,Arabian- Snacks,4.7,20+ ratings,5,Ganapathy,No,Coimbatore
+Let'Z Grill,Fast Food- Chinese,4.1,100+ ratings,5,Ganapathy,No,Coimbatore
+Dream Cake,Bakery,--,Too Few Ratings,4,Ganapathy,Yes,Coimbatore
+MSR Dum Biryani,Biryani- Snacks,--,Too Few Ratings,4,Ganapathy,No,Coimbatore
+Valarmathi Home Kitchen,Home Food- South Indian,4,50+ ratings,5,Ganapathy,No,Coimbatore
+Vibe The Taste,Pizzas- Snacks,4.5,3 ratings,4,Ganapathy,No,Coimbatore
+CHAR Grills,Chinese- Continental,4,500+ ratings,5,Ganapathy,No,Coimbatore
+Suhan Restaurant,Chinese- Snacks,4.9,20+ ratings,4,Ganapathy,No,Coimbatore
+Shree Pappu Restaurant,South Indian- Seafood,4.3,1K+ ratings,5,Ganapathy,No,Coimbatore
+Foodie Friends,Indian- Chaat,3,8 ratings,4,Ganapathy,No,Coimbatore
+Sri Om Sakthi Sweets And Snacks,Sweets- Snacks,--,Too Few Ratings,4,Ganapathy,Yes,Coimbatore
+Sri Kumaran Mess,Biryani- North Indian,4,1K+ ratings,5,Ganapathy,No,Coimbatore
+Queen Of Indian Biriyani Corner,Biryani,3.7,10+ ratings,4,Ganapathy,No,Coimbatore
+Noruks Sweets Snacks Ganapathy,Sweets- Snacks,4.2,20+ ratings,4,Ganapathy,Yes,Coimbatore
+Hunger'S Junction,Juices- Snacks,4.4,9 ratings,4,Ganapathy,No,Coimbatore
+HMA Ambur Star Biriyani,Biryani,--,Too Few Ratings,4,Ganapathy,No,Coimbatore
+Janu'S Kitchen,Indian- Biryani,4.9,7 ratings,4,Ganapathy,No,Coimbatore
+Cake Kafe,Bakery- Desserts,4.2,100+ ratings,4,Ganapathy,No,Coimbatore
+Hotel Biriyani Durbar,Biryani- South Indian,4.1,1K+ ratings,4,Ganapathy,No,Coimbatore
+Sastha Mess,Chinese,4.5,20+ ratings,4,Ganapathy,No,Coimbatore
+Coimbatore Biriyani Eatery,South Indian- Biryani,3.8,9 ratings,4,Ganapathy,No,Coimbatore
+Hotel Manam,North Indian- Biryani,--,Too Few Ratings,5,Ganapathy,No,Coimbatore
+Parsley Bakery And Cake Shop,Pizzas- Italian,4.4,100+ ratings,4,Ganapathy,No,Coimbatore
+Mummy Home Food,South Indian- Arabian,4.4,8 ratings,4,Ganapathy,No,Coimbatore
+M R Moorthi Chettinadu,South Indian- Indian,4,10K+ ratings,5,Ganapathy,No,Coimbatore
+Thiruchitram Foods,Chaat- Snacks,--,Too Few Ratings,4,Ganapathy,Yes,Coimbatore
+Cakena Delight,Bakery,--,Too Few Ratings,4,Ganapathy,Yes,Coimbatore
+Milas Oven - MKP,Pizzas- Fast Food,4.2,5 ratings,4,Ganapathy,No,Coimbatore
+Kumar'S Fresh Corner,Snacks- Chinese,--,Too Few Ratings,4,Ganapathy,No,Coimbatore
+NMR Biryani Hut,Biryani- Chinese,4.8,7 ratings,4,Ganapathy,No,Coimbatore
+Suvai Ar Unavagam,South Indian- Thalis,4.2,5 ratings,4,Ganapathy,No,Coimbatore
+Priya Sweets & Snacks,Sweets- Snacks,4.9,8 ratings,4,Ganapathy,Yes,Coimbatore
+Live Sweets &Snacks,Sweets- Snacks,--,Too Few Ratings,4,Ganapathy,Yes,Coimbatore
+Taco Bell,Mexican,4.3,1K+ ratings,5,Ganapathy,No,Coimbatore
+Five Star Premium,Bakery- Sweets,4.5,1K+ ratings,4,Jakhan,Yes,Dehradun
+Nazeer Foods,Mughlai- North Indian,4,100+ ratings,4,Jakhan,No,Dehradun
+Vaango,South Indian- Desserts,3.7,6 ratings,4,Jakhan,Yes,Dehradun
+Chai Nagri,Indian- Chinese,4.4,20+ ratings,4,Jakhan,No,Dehradun
+Kumar'S Sweet Shop (Jakhan),Sweets- South Indian,4.3,1K+ ratings,4,Jakhan,Yes,Dehradun
+Aunty'S Kitchen,North Indian- Chinese,3.7,5K+ ratings,4,Jakhan,No,Dehradun
+KARIM'S- Original From Jama Masjid Delhi- 6,Biryani- Mughlai,3.9,100+ ratings,4,Jakhan,No,Dehradun
+Nazim'S Kathi Roll,Arabian,4.3,1K+ ratings,4,Jakhan,No,Dehradun
+Spicy Kitchen,Indian,3.7,3 ratings,4,Govind Garh,No,Dehradun
+Food Zone,Healthy Food- Beverages,3.5,500+ ratings,5,Govind Garh,No,Dehradun
+Gym Diet Adda,Chinese,3.3,100+ ratings,5,Govind Garh,No,Dehradun
+Gym Diet Center,Healthy Food- Beverages,3.6,100+ ratings,5,Govind Garh,No,Dehradun
+Baba Chicken,North Indian- Chinese,NEW,,5,Jakhan,No,Dehradun
+The Biryani Company,Biryani- North Indian,4.1,10+ ratings,4,Jakhan,No,Dehradun
+Yeti - The Himalayan Kitchen,Asian- Nepalese,4.2,20+ ratings,5,Jakhan,No,Dehradun
+Feast,Indian- Oriental,4,10+ ratings,5,Jakhan,No,Dehradun
+Alopaz,Chinese- Thai,3.6,10+ ratings,4,Jakhan,No,Dehradun
+Rustico Cafe & Lounge,Chinese- Pizzas,4.1,10+ ratings,4,Jakhan,No,Dehradun
+Vrindavan Cafe & Restaurant,Tandoor- South Indian,3.9,10+ ratings,5,Indraprastha,Yes,Dehradun
+Cafe Laata,Beverages,5,7 ratings,4,Jakhan,No,Dehradun
+Kababji Grill,North Indian- Chinese,4.1,5 ratings,4,Jakhan,No,Dehradun
+0135 Pub And Kitchen,North Indian- Chinese,--,Too Few Ratings,4,Jakhan,No,Dehradun
+Street Buster,Beverages- Fast Food,3.7,10+ ratings,4,Govind Garh,Yes,Dehradun
+Kebab & Biryani (Since 1995),North Indian- Chinese,4,1K+ ratings,4,Jakhan,No,Dehradun
+Samburna,Snacks- North Indian,NEW,,4,Jakhan,No,Dehradun
+Badmaash Kebabi EC Road,Lucknowi- Awadhi,4.2,500+ ratings,5,Jakhan,No,Dehradun
+Lucknow Darbaar,Kebabs- Indian,4.1,100+ ratings,4,Jakhan,No,Dehradun
+Gym Time,Salads- Pastas,2.4,20+ ratings,5,Govind Garh,No,Dehradun
+Four Points By Sheraton,Indian- Continental,3.4,20+ ratings,4,Jakhan,No,Dehradun
+Korean Delicacies,North Indian- Chinese,NEW,,4,Jakhan,No,Dehradun
+Mr. Kimms,Chinese,NEW,,4,Jakhan,No,Dehradun
+Addy & Daddy,North Indian- Mexican,5,5 ratings,4,Jakhan,Yes,Dehradun
+T3,Italian- Chinese,3.5,50+ ratings,4,Jakhan,No,Dehradun
+Patiala Lassi Bar,Beverages- Snacks,--,Too Few Ratings,4,Jakhan,Yes,Dehradun
+Gym Diet Ka Adda,Healthy Food,3.1,100+ ratings,5,Govind Garh,No,Dehradun
+THC-Truckers Halt Cafe,Italian- Beverages,4.3,1K+ ratings,5,Jakhan,No,Dehradun
+The Organic Kitchen,North Indian- Chinese,3,20+ ratings,4,Jakhan,No,Dehradun
+Brewbakes Restaurant And Cafe,Bakery,--,Too Few Ratings,4,Jakhan,Yes,Dehradun
+Hotel Forest Avenue,North Indian- Chinese,--,Too Few Ratings,4,Jakhan,No,Dehradun
+Kathi Bite,Snacks- Lebanese,4.1,20+ ratings,4,Jakhan,No,Dehradun
+Badmaash Kebabi,Lucknowi- Awadhi,4.2,1K+ ratings,5,Jakhan,No,Dehradun
+Bikano Chaat Cafe,Chinese- North Indian,3.7,10+ ratings,4,Jakhan,Yes,Dehradun
+Bubble Bobba Tea,Fast Food- Snacks,NEW,,4,Jakhan,No,Dehradun
+The Swings Cafe,Italian- Chinese,4.3,100+ ratings,4,Jakhan,No,Dehradun
+Masha Tiffin Service,North Indian- Chinese,--,Too Few Ratings,4,Jakhan,No,Dehradun
+Haveli Bhojnalaya,North Indian- Indian,NEW,,4,Jakhan,No,Dehradun
+Tandoori Jinn,Kebabs- Biryani,3.4,10+ ratings,4,Jakhan,No,Dehradun
+Koreanchow,Chinese- Korean,NEW,,4,Jakhan,No,Dehradun
+Dhaba Estd 1986 Delhi,Biryani- Hyderabadi,4.3,10+ ratings,5,Dehradun Nagar Nigam,No,Dehradun
+Samosa Party,Fast Food- Snacks,4.3,50+ ratings,0,Janakpuri,No,Delhi
+Southy Cafe,South Indian,4,100+ ratings,5,Janakpuri,Yes,Delhi
+Pandit Ji Parantha Hut,North Indian- Street Food,4.2,1K+ ratings,5,Janakpuri,No,Delhi
+Delhi Chai Cafe,Snacks- Fast Food,NEW,,4,JB BLock,Yes,Delhi
+Om Corner Karol Bagh Wale,North Indian,4.2,100+ ratings,5,Janakpuri,Yes,Delhi
+Punjabi Tadka,Snacks- Chinese,3.5,20+ ratings,5,JANAKPURI,No,Delhi
+Maa Ki Rasoi,Chinese- Snacks,3.8,20+ ratings,5,JANAKPURI,No,Delhi
+IGP Cakes,Desserts- Bakery,4.3,100+ ratings,5,Janakpuri,Yes,Delhi
+Punjabi Dhaba,North Indian,3.4,100+ ratings,5,Janakpuri,Yes,Delhi
+Bangla Sweet House,Sweets- Snacks,4.3,1K+ ratings,5,Janakpuri,Yes,Delhi
+Ravi Paratha Kulcha,Indian,4.4,100+ ratings,5,Janakpuri,Yes,Delhi
+King Special Tawa Parantha,North Indian- Snacks,4,10K+ ratings,5,Janakpuri,No,Delhi
+TBK Kulchas,Italian- Snacks,4.3,10K+ ratings,5,Janakpuri,Yes,Delhi
+Xotic Dosa,North Indian- South Indian,4.4,1K+ ratings,4,Janakpuri,Yes,Delhi
+Rama Poori Sabzi Special Tawa Paratha,North Indian,3.8,1K+ ratings,5,Janakpuri,Yes,Delhi
+Bake Bikaner,North Indian- Indian,3.9,500+ ratings,5,Janakpuri,Yes,Delhi
+Green Bhojnalaya,Indian,3.9,50+ ratings,5,Janakpuri,No,Delhi
+Bikaner Sweet India,Sweets,3.4,10+ ratings,4,Janakpuri,Yes,Delhi
+Rajasthani Dhaba,Chinese- Mughlai,3.3,20+ ratings,5,JANAKPURI,No,Delhi
+NutrioBox,Healthy Food- Salads,4.3,1K+ ratings,5,Janakpuri,No,Delhi
+Aggarwal Sweet Centre,Sweets- Snacks,4.7,20+ ratings,4,Janakpuri,Yes,Delhi
+Munch Nation,North Indian- Chinese,3.9,10K+ ratings,5,Janakpuri,No,Delhi
+Kapoor Tiffin Service And Caterers,Indian,4.2,100+ ratings,5,Moti Nagar,No,Delhi
+Milan Dhaba,Indian,4.2,100+ ratings,5,Janakpuri,Yes,Delhi
+SHAMA CHICKEN CORNER,Indian- Biryani,NEW,,4,Janakpuri,Yes,Delhi
+Desi Pakwan,Snacks- Chinese,4.8,10+ ratings,5,JANAKPURI,No,Delhi
+Apna Dhaba,North Indian- Indian,3.4,500+ ratings,5,Janakpuri,Yes,Delhi
+Desi Tadka,North Indian- Chinese,4.3,10+ ratings,5,JANAKPURI,No,Delhi
+Khana Khazana,Snacks- Chinese,4.2,20+ ratings,5,JANAKPURI,No,Delhi
+Punjabi Kitchen,North Indian- Chinese,4.7,10+ ratings,5,JANAKPURI,No,Delhi
+Food Factory,North Indian- Chinese,4.8,10+ ratings,5,JANAKPURI,No,Delhi
+Dosa Hub,South Indian,4.1,500+ ratings,5,Janakpuri,Yes,Delhi
+THE CHAI STORY,Cafe- Snacks,3.5,10+ ratings,5,Janakpuri,No,Delhi
+Desi Dhaba,North Eastern- Chinese,4.5,10+ ratings,5,JANAKPURI,No,Delhi
+Vadilal Scoop Shop,Ice Cream,4.5,100+ ratings,5,Janakpuri,Yes,Delhi
+Madno - House Of Sundaes,Ice Cream- Beverages,4.3,20+ ratings,5,Janakpuri,Yes,Delhi
+Any Time Paratha,Indian,3.9,100+ ratings,5,Janakpuri,No,Delhi
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",Beverages- Desserts,4.3,100+ ratings,5,Janakpuri,Yes,Delhi
+Tandoori Kitchen,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Indian Rasoi,North Indian- Snacks,4.3,10+ ratings,5,JANAKPURI,No,Delhi
+Baba Dhaba,Chinese- Mughlai,4.1,20+ ratings,5,JANAKPURI,No,Delhi
+Suruchee,North Indian- Bengali,3.8,10K+ ratings,4,Janakpuri,No,Delhi
+Apna Dhaba New,Indian,2.8,10+ ratings,5,Janakpuri,Yes,Delhi
+Tarun Paratha House,North Indian,3.7,20+ ratings,5,Janakpuri,No,Delhi
+Raj Kumar Dhaba,North Indian- Thalis,3.5,100+ ratings,5,Janakpuri,Yes,Delhi
+Ram Ji Dhaba,Indian,3.3,20+ ratings,5,Janakpuri,Yes,Delhi
+Dharamveer Chole Kulche Corner,North Indian,4.4,500+ ratings,5,Janakpuri,Yes,Delhi
+Just Bhature,Street Food,3.3,20+ ratings,4,Janakpuri,Yes,Delhi
+Pahuja Sweet Corner,Sweets,4.4,50+ ratings,4,Janakpuri,Yes,Delhi
+Eat2Fit,Healthy Food,4.3,10K+ ratings,4,Janakpuri,No,Delhi
+New Kadimi,North Indian- Chinese,4.3,5K+ ratings,5,Janakpuri,Yes,Delhi
+Indian Grill,Chinese- Snacks,3.3,8 ratings,5,JANAKPURI,No,Delhi
+Punjabi Swag,North Indian- Chinese,3.5,4 ratings,5,JANAKPURI,No,Delhi
+Punjabi Tadka Restaurant,North Indian- Indian,2.4,7 ratings,5,Janakpuri,No,Delhi
+Shiv Juice And Shakes,Beverages,4.6,1K+ ratings,4,Moti Nagar,Yes,Delhi
+The House Of Cakes,Bakery- Desserts,4.4,5K+ ratings,5,Moti Nagar,No,Delhi
+Aggarwal Sweets And Snacks,Chinese- South Indian,2.9,2 ratings,4,Janakpuri,Yes,Delhi
+Cake Affair,Bakery- Pizzas,2.6,8 ratings,4,Moti Nagar,No,Delhi
+Janki Ki Rasoi,North Indian,3.5,50+ ratings,5,Janakpuri,Yes,Delhi
+Lucky Fruit Juice And Shakes,Beverages,4.2,100+ ratings,4,Janakpuri,Yes,Delhi
+North Indian Curry,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Shree Gopala,North Indian- South Indian,4.1,100+ ratings,5,Janakpuri,Yes,Delhi
+Mot7,Beverages- Italian-American,3.6,9 ratings,5,Janakpuri,Yes,Delhi
+Parantha Sharantha,North Indian- Snacks,3.6,10+ ratings,5,Janak Puri,No,Delhi
+Cake Town,Bakery,3,4 ratings,5,Janakpuri,Yes,Delhi
+Ghar Jaisa Khana,North Indian- Snacks,4.4,20+ ratings,5,JANAKPURI,No,Delhi
+Foodies Junction,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Curry Kingdom,North Indian- Chinese,4.8,10+ ratings,5,JANAKPURI,No,Delhi
+Indian Spice,North Indian- Chinese,4.8,10+ ratings,5,JANAKPURI,No,Delhi
+Jai South Indian Dosa Corner,Street Food- South Indian,4.1,100+ ratings,4,Moti Nagar,Yes,Delhi
+Muradabadi Hyderabadi Biryani,Biryani,3,100+ ratings,5,Moti Nagar,No,Delhi
+Dietary Kitchen,Continental- Healthy Food,3.8,1K+ ratings,5,Janakpuri,No,Delhi
+Muradabadi Chicken Biryani,Biryani,3.8,100+ ratings,4,Moti Nagar,No,Delhi
+Polka Snackery & Bakery,Bakery- Desserts,4.2,1K+ ratings,5,Janakpuri,No,Delhi
+Crafty Cakes,Bakery,4.6,100+ ratings,5,Janakpuri,Yes,Delhi
+Lala Radhey Shyam Misthan Bhandar,Sweets- Desserts,NEW,,4,Janakpuri,Yes,Delhi
+Midnight Buddy,Fast Food- Snacks,NEW,,5,Janakpuri,Yes,Delhi
+Ram Ji Poori Wale,Indian,3.5,20+ ratings,5,Janakpuri,No,Delhi
+Cheffy/Tiffy,Indian,4.6,100+ ratings,4,Janakpuri,Yes,Delhi
+Bengali Masala,Chinese- Mughlai,3.9,20+ ratings,5,JANAKPURI,No,Delhi
+Bengali Express,Chinese- Mughlai,5,10+ ratings,5,JANAKPURI,No,Delhi
+Bengali Curry,North Indian- Chinese,4.8,20+ ratings,5,JANAKPURI,No,Delhi
+Sub N Salad,American- Salads,4.2,1K+ ratings,5,Janakpuri,No,Delhi
+Meals 24*7,North Indian- Chinese,5,10+ ratings,5,Janakpuri,No,Delhi
+Paushtik Aahar,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Lajwab Bakery,Desserts,4.3,7 ratings,4,Janakpuri,Yes,Delhi
+Mahavir Namkeen,Bakery,4.3,8 ratings,5,Janakpuri,Yes,Delhi
+Ishwar Sweets,Sweets- Chinese,4.3,20+ ratings,4,Janakpuri,Yes,Delhi
+24 Hrs Tawa & Tandoor,North Indian,3.6,100+ ratings,5,Janakpuri,No,Delhi
+Swaad Amritsar Da,South Indian,4.3,20+ ratings,5,Janakpuri,Yes,Delhi
+The Truffle Home,Bakery,4.1,50+ ratings,5,Janakpuri,Yes,Delhi
+Bigg Bake Cakes,Bakery- Desserts,4.1,500+ ratings,5,Janakpuri,Yes,Delhi
+Rama Poori Subzi Special Tawa Paratha,Snacks,3.7,100+ ratings,5,Janakpuri,Yes,Delhi
+Taste Of Zaika,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Kuber Rasoi,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Kiskey Whiskey,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Kingdom Of Taste,North Indian- Chinese,4.7,10+ ratings,5,JANAKPURI,No,Delhi
+Shimla Dhaba,North Indian- Indian,2.7,8 ratings,5,Janakpuri,No,Delhi
+Devkinandan,North Indian- Indian,4.3,20+ ratings,4,Janakpuri,Yes,Delhi
+Om Sweet 24x7,Sweets,2.8,7 ratings,4,Janakpuri,Yes,Delhi
+Kibber Kitchen,North Indian- Italian,4.5,100+ ratings,5,Janakpuri,No,Delhi
+Sampurn Chinese,Chinese- Thai,3.7,50+ ratings,5,Janakpuri,Yes,Delhi
+Janki Dhaba,North Indian,3.6,100+ ratings,5,Janakpuri,Yes,Delhi
+HariBol,North Indian- Fast Food,4.2,100+ ratings,4,Janakpuri,Yes,Delhi
+The Golden Cake,Bakery,--,Too Few Ratings,4,Moti Nagar,Yes,Delhi
+The Curry House,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Mast Punjabi,North Indian- Chinese,5,10+ ratings,5,Janakpuri,No,Delhi
+Amul Cafe,Indian- North Indian,3.9,20+ ratings,5,Janakpuri,Yes,Delhi
+CHAI PANI,Beverages- Chinese,4,2 ratings,5,Janakpuri,No,Delhi
+Curry House,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Food Express,North Indian- Snacks,4.6,10+ ratings,5,JANAKPURI,No,Delhi
+Dal Roti Wala,North Indian- Chinese,4.3,10+ ratings,5,JANAKPURI,No,Delhi
+Dilli Ki Rasoi,Chinese- Snacks,5,10+ ratings,5,JANAKPURI,No,Delhi
+Curry Junction,North Indian- Chinese,4.9,10+ ratings,5,JANAKPURI,No,Delhi
+Food Mistri,Indian,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+Royal Tandoor,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Cakes Away,Bakery- Desserts,4.5,8 ratings,5,Bali Nagar,Yes,Delhi
+Cake Event,Bakery- Pizzas,3.5,10+ ratings,4,Moti Nagar,No,Delhi
+24 Hour Cake,Bakery,3.2,10+ ratings,4,Moti Nagar,No,Delhi
+Manoj Variety Samosa Wala,Snacks,4.3,6 ratings,5,Janakpuri,No,Delhi
+Snaxpress Tastes & Cakes,Snacks- Desserts,3.7,1K+ ratings,4,Moti Nagar,Yes,Delhi
+Design Cake,Bakery,--,Too Few Ratings,4,Moti Nagar,Yes,Delhi
+"Fateh Juice, Shakes And Snacks",Beverages,4.5,100+ ratings,5,Moti Nagar,Yes,Delhi
+Just Punjabi,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Tandoori Palace,North Indian- Chinese,2.4,3 ratings,5,JANAKPURI,No,Delhi
+Masala Twist,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Masala Fusion,North Indian- Chinese,5,10+ ratings,5,Janakpuri,No,Delhi
+Punjab Da Dhaba,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Desi Express,Chinese- Mughlai,5,10+ ratings,5,JANAKPURI,No,Delhi
+Wakeup Cafe,Cafe- Fast Food,NEW,,4,Janakpuri,Yes,Delhi
+Shudh Vaishno Dhaba,North Indian- Snacks,3.5,50+ ratings,5,Janakpuri,No,Delhi
+Singh Sahab,Chinese- Indian,--,Too Few Ratings,5,Janakpuri,No,Delhi
+Indian Masala House,Snacks- Chinese,4.9,10+ ratings,5,JANAKPURI,No,Delhi
+Punjabi Swaad,North Indian- Chinese,4.6,10+ ratings,5,JANAKPURI,No,Delhi
+It'S Pizza Time,Italian- Pizzas,3.8,100+ ratings,5,Janakpuri,Yes,Delhi
+PUNJABI SWAD,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Flavours Restaurant,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Dhaba Express,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Tandoori Grill,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Tandoori Night,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Food 365,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Curry Corner,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Delicacy Bakers & Patisserie,Bakery,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+Bablu Paan,Desserts,4.3,100+ ratings,5,Janakpuri,Yes,Delhi
+Cake Bake Place,Bakery,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+Home Made Non-Veg,Indian,4.6,20+ ratings,4,Janakpuri,No,Delhi
+Parantha Addiction,North Indian,NEW,,5,Janakpuri,Yes,Delhi
+King Of Bakers,Bakery- Desserts,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+B4U Biryani,Biryani- Kebabs,NEW,,4,Janakpuri,No,Delhi
+Biryani'S Queen,Indian- Snacks,--,Too Few Ratings,5,Janakpuri,No,Delhi
+Hunger'S,Indian- Beverages,4.8,7 ratings,5,Janakpuri,No,Delhi
+AK Cloud Kitchen,Indian- Snacks,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Bhukkad Veera,Indian- Snacks,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+Singh Is King,Indian- Fast Food,NEW,,5,Janakpuri,No,Delhi
+Bombay 2 Amritsar,Maharashtrian- Snacks,NEW,,0,Janakpuri,Yes,Delhi
+Geyra'S Foodelicious,Indian,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Sardar Ji Kulche Wale,Indian,NEW,,4,Janakpuri,Yes,Delhi
+Suganya'S,South Indian- Chinese,4.1,5K+ ratings,5,Janakpuri,Yes,Delhi
+Burki The Bite,North Indian- Beverages,NEW,,5,Janakpuri,Yes,Delhi
+Rezhit Dish,South Indian- Chinese,NEW,,4,Janakpuri,Yes,Delhi
+Danish Patisserie,Fast Food- Indian,3.6,10+ ratings,5,Janakpuri,No,Delhi
+Taste Of Jaipur,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Mouth Watering,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Shree Radhe Ki Rasoi,Indian,2.4,10+ ratings,5,Janakpuri,Yes,Delhi
+SR CAKE POINT,Bakery,--,Too Few Ratings,5,Janakpuri,No,Delhi
+Maa Annapoorna Rasoi,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Punjabi Chatkara,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Shambhu Ji Chole Kulche,Indian,2.9,5 ratings,5,Janakpuri,Yes,Delhi
+Dalmakhhani.Com,Indian- Sweets,--,Too Few Ratings,5,Janak Puri,Yes,Delhi
+Gupta Sweets And Caterers,Indian- Snacks,NEW,,4,Janakpuri,Yes,Delhi
+Vinayak Amritsari Koolcha Land,Indian,4.3,9 ratings,5,Janakpuri,Yes,Delhi
+Just Foodies,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Bermuda Cafe,Pizzas- Burgers,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Bombay Club,North Indian- Snacks,4.8,10+ ratings,5,JANAKPURI,No,Delhi
+Dharshan Chole Bathture,North Indian,NEW,,4,Janakpuri,Yes,Delhi
+Shiv Shankar Dhaba,North Indian,3.4,50+ ratings,5,Janakpuri,Yes,Delhi
+Gupta Ji Famous Burger,American- Snacks,2.4,7 ratings,4,Janakpuri,Yes,Delhi
+The Broken Rice,North Indian- Thalis,4.5,3 ratings,5,Janakpuri,Yes,Delhi
+Burger By Weirdos,Burgers- Snacks,--,Too Few Ratings,4,Janakpuri,No,Delhi
+New Indian Cart,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Tyagi S Cafe And Restaurant,Chinese- Italian,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+Delicieux Chinese,Chinese,4.1,500+ ratings,4,Janakpuri,No,Delhi
+Pizza Xpertz,Pizzas- Pastas,3.8,9 ratings,5,Janakpuri,No,Delhi
+Curry Bites,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Delicious Meals,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Deshi Rasoi,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Food-G,Chinese- Italian,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Egg Omelete Hungry,Indian- Snacks,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Delicious Moment,Snacks- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Ramrati Tiffin,North Indian- Chinese,NEW,,5,Janakpuri,Yes,Delhi
+Tandoor Pitara,Snacks- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+The Old Delhi,North Indian- Biryani,3.8,20+ ratings,5,Janakpuri,No,Delhi
+Raahi Foods,North Indian- Biryani,3.5,10+ ratings,5,Janakpuri,Yes,Delhi
+Dilli Tikka House,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Vape N Pizza,Pizzas,3.7,20+ ratings,4,Janakpuri,No,Delhi
+Parantha Kingdom,Indian- Chinese,4.4,4 ratings,5,Janakpuri,No,Delhi
+Kha Le Sasta,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Old Punjabi Dahba,North Indian- Chinese,NEW,,5,Janakpuri,No,Delhi
+Kernal Kabab,North Indian- Chinese,5,8 ratings,5,JANAKPURI,No,Delhi
+Baba Sweets Snacks And Namkeen,Sweets- Snacks,4.3,20+ ratings,4,Janakpuri,Yes,Delhi
+Kartoon Cafe,Indian- Chinese,4.1,100+ ratings,4,Janakpuri,No,Delhi
+Patty World,Chinese- Desserts,2.8,20+ ratings,5,Janakpuri,No,Delhi
+Ghar Si Rasoi,North Indian- Chinese,4.8,10+ ratings,5,JANAKPURI,No,Delhi
+Dilli Tawa Parantha,North Indian,3.3,1K+ ratings,5,Janakpuri,No,Delhi
+Jaipur Delights,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Coffee Gram,Beverages- Pizzas,5,10+ ratings,4,Janakpuri,No,Delhi
+Good Health Kitchen,North Indian,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+Indian Curry Box,North Indian- Chinese,5,10+ ratings,5,JANAKPURI,No,Delhi
+Aunty Special Tawa Paratha,North Indian,3.6,50+ ratings,5,Janakpuri,No,Delhi
+Swadisht Bhog,North Indian- Chinese,NEW,,5,JANAKPURI,No,Delhi
+Delhi Paratha Company,North Indian- Indian,2.9,20+ ratings,5,Janakpuri,No,Delhi
+Uncle Tony,Chinese- Tandoor,4.3,100+ ratings,5,Janakpuri,No,Delhi
+Chhajju Ram,Indian- Sweets,3,10+ ratings,4,Janakpuri,Yes,Delhi
+Balaji Food Plaza,South Indian- Burgers,4.1,50+ ratings,4,Janakpuri,Yes,Delhi
+Saurav Paan,Paan- Desserts,3.4,500+ ratings,4,Janakpuri,Yes,Delhi
+7 KNIGHTS KITCHEN,Chinese- Snacks,4.4,8 ratings,4,Janakpuri,No,Delhi
+Punjabi Family Restaurant,North Indian,3.3,50+ ratings,5,Janakpuri,Yes,Delhi
+Atmarams Sweets,Sweets,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+Parantha Treat,North Indian- Snacks,NEW,,5,Janakpuri,Yes,Delhi
+Delhi Tiffins,North Indian,4.4,1K+ ratings,5,Janakpuri,Yes,Delhi
+Delicieux,Bakery- Chinese,4.2,10K+ ratings,5,Janakpuri,No,Delhi
+Chai Thela Cafe,Fast Food- Beverages,3.8,100+ ratings,5,Janakpuri,No,Delhi
+Slice Of Italy,Pizzas- Italian,3.7,1K+ ratings,4,Janakpuri,No,Delhi
+Lahore Cake Shop,Bakery- Ice Cream,1.7,10+ ratings,4,Janakpuri,Yes,Delhi
+Jumboking Indian Burger,American- Burgers,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+The Home Food,North Indian- Snacks,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+New Madras Cafe,Indian,4.1,4 ratings,4,Janakpuri,No,Delhi
+Yummy Tummy,Indian- North Indian,3.4,10+ ratings,5,Janakpuri,No,Delhi
+Garam Masala,North Indian- Mughlai,4.1,6 ratings,4,Janakpuri,No,Delhi
+Food Junction,Maharashtrian- North Indian,3.9,1K+ ratings,0,Janakpuri,Yes,Delhi
+Giani Ice Cream,Desserts- Ice Cream,3.8,1K+ ratings,5,Janakpuri,Yes,Delhi
+Delhi Darbar,Indian,3.6,100+ ratings,5,Janakpuri,No,Delhi
+Chef'S Kitchen,Indian,4.2,50+ ratings,5,Janakpuri,No,Delhi
+Dilli Dhaba,Indian- Snacks,NEW,,5,Janakpuri,No,Delhi
+Punjabi Chaap Corner,Indian- Snacks,4.3,50+ ratings,4,Janakpuri,Yes,Delhi
+Iceberg Organic Icecreams,Ice Cream,NEW,,5,Janakpuri,Yes,Delhi
+White Cub,Ice Cream- Desserts,4.7,50+ ratings,5,Janakpuri,Yes,Delhi
+Ganesh Bakery,Desserts,4.6,20+ ratings,4,Janakpuri,No,Delhi
+Reliable Food Court,Indian- Chinese,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Sindhi Namkeen & More,Indian- Gujarati,3.7,10+ ratings,4,Moti Nagar,Yes,Delhi
+Wah Ji Wah,North Indian- Mughlai,3.5,1K+ ratings,5,Janakpuri,No,Delhi
+IGP Sweets,Desserts- Bakery,NEW,,4,Janakpuri,No,Delhi
+Toki Yo - Authentic Japanese By Oriental Mom,Japanese- Sushi,4.1,10+ ratings,5,Janakpuri,No,Delhi
+Chinese Factory,Rolls & Wraps- Snacks,3.9,10+ ratings,5,Janakpuri,No,Delhi
+Magic Masala,Chinese- Indian,--,Too Few Ratings,5,Janakpuri,No,Delhi
+Shawarma Factory,Lebanese- Burgers,3.8,50+ ratings,5,Janakpuri,No,Delhi
+Brother'S Bakers Vikaspuri,Bakery- Fast Food,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+Bharat Restaurants Chicken & Mutton Point,North Indian- Chinese,4.3,4 ratings,4,Janakpuri,No,Delhi
+Madaan Snacks,Snacks- Chinese,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+Sahyog Ram Paan,Paan,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+New Chawla Veg Corner,North Indian- Tandoor,4.2,100+ ratings,5,Janakpuri,Yes,Delhi
+Bhogal Meat Point,Indian,5,4 ratings,4,Janakpuri,No,Delhi
+Just Eggs,Burgers,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Uncle Ji Special Omelette,Snacks,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Apni Roti,North Indian,--,Too Few Ratings,5,Janakpuri,No,Delhi
+YangWay,Chinese- Beverages,--,Too Few Ratings,5,Janakpuri,No,Delhi
+Midnight Paratha Hub,North Indian- Snacks,5,3 ratings,4,Janakpuri,Yes,Delhi
+Masala Factory [Chinese & More],Chinese,4.1,50+ ratings,0,Janakpuri,No,Delhi
+Daddy Swaad,Indian,4.3,4 ratings,4,Janakpuri,Yes,Delhi
+Italian Mama,Pastas- Burgers,NEW,,4,Janakpuri,No,Delhi
+Naansence,North Indian- Chinese,4.2,10+ ratings,5,Janakpuri,No,Delhi
+Fly High Restaurant,North Indian- Tandoor,4.5,10+ ratings,4,Janakpuri,Yes,Delhi
+Amit Chaap Corner,Snacks- Chinese,--,Too Few Ratings,4,Janakpuri,Yes,Delhi
+The House Of Platters,Chinese- Beverages,3.7,4 ratings,4,Janakpuri,No,Delhi
+Bao Chow,Chinese,2.8,50+ ratings,5,Janakpuri,No,Delhi
+Spice Hi Restaurant,Chinese- Snacks,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Crave Crisps,Burgers- Fast Food,--,Too Few Ratings,5,Janakpuri,No,Delhi
+Salad And Shake,Salads,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Nayra Foods,Andhra- Hyderabadi,4,9 ratings,5,Janakpuri,No,Delhi
+Food On Flames,Chinese- Pizzas,4,10+ ratings,5,Janakpuri,No,Delhi
+Pizza Brand,Pizzas- Italian,--,Too Few Ratings,5,Janakpuri,Yes,Delhi
+Swagatam,South Indian- Beverages,4.2,500+ ratings,5,Janakpuri,No,Delhi
+Pet Ki Khatir,North Indian- Indian,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Delhi Veg Chinese,Chinese,4.7,5 ratings,4,Janakpuri,Yes,Delhi
+Rice & Parantha Hub,North Indian- Snacks,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Makhan Paaji,Indian- Mughlai,--,Too Few Ratings,4,Janakpuri,No,Delhi
+Palazzo Inn,Indian,4,50+ ratings,4,Janakpuri,Yes,Delhi
+Choice Shawarma,Indian- Arabian,4.4,3 ratings,5,Janakpuri,Yes,Delhi
+Bubble Bliss,Beverages- Desserts,4.6,20+ ratings,4,Janakpuri,No,Delhi
+Indian Desi Rasoi,North Indian- Indian,3.9,9 ratings,4,Janakpuri,Yes,Delhi
+The Momo Chutney,Chinese- Asian,4.2,1K+ ratings,5,Janakpuri,No,Delhi
+Eco Meals,North Indian,NEW,,5,Janakpuri,No,Delhi
+The Shawarma Factory,Arabian- Chinese,3.7,4 ratings,4,Janakpuri,No,Delhi
+Cafeme Diner,Indian,4.5,20+ ratings,4,Janakpuri,No,Delhi
+The Foodie Wok,Chinese- Italian,4.4,100+ ratings,4,Janakpuri,No,Delhi
+Grameen Kulfi,Ice Cream- Desserts,4.8,100+ ratings,0,Damodarpur,Yes,Dhanbad
+Grill Inn,Burgers- Pizzas,3.6,100+ ratings,4,Damodarpur,No,Dhanbad
+Wenger Bakers,Bakery- Snacks,4.1,1K+ ratings,4,Damodarpur,Yes,Dhanbad
+Quick Bites,Chinese- Fast Food,4.3,500+ ratings,4,Damodarpur,No,Dhanbad
+Vella Pizza Cafe,Pizzas- Fast Food,3.7,20+ ratings,4,Damodarpur,Yes,Dhanbad
+New Mb'S Sweet & Snacks,Sweets- North Indian,4.2,100+ ratings,4,Jalukpara,Yes,Dibrugarh
+Hotel Tree Fern,North Indian- Tandoor,4.3,100+ ratings,4,Amolapatty,No,Dibrugarh
+Gul Mohar Restaurant,North Indian- Biryani,4.2,100+ ratings,4,Amolapatty,No,Dibrugarh
+Hotel Maurya,North Indian- Chinese,4.1,100+ ratings,5,Jhalukpara,No,Dibrugarh
+Delhi Biryani,Biryani- North Indian,4.3,100+ ratings,4,Amolapatty,No,Dibrugarh
+The Houze Of Biryani'S & Kebab'S,Biryani- Kebabs,NEW,,0,Greater Faridabad,No,Faridabad
+Apni Rasoi,Indian- Chinese,NEW,,4,Gaya City,Yes,Gaya
+Chai Sutta Bar,Beverages- Fast Food,3.2,5 ratings,4,Gaya City,Yes,Gaya
+Cake Walk,Bakery,4.1,9 ratings,5,Gaya City,Yes,Gaya
+Vadilal Ice Creams,Ice Cream- Desserts,4.4,20+ ratings,4,Gaya City,Yes,Gaya
+Burger Singh (Big Punjabi Burgers),Burgers- Snacks,4.2,100+ ratings,5,Gaya City,No,Gaya
+Punjabi Junction,Punjabi- North Indian,NEW,,5,Gaya City,Yes,Gaya
+Pind Balluchi,Mughlai- North Indian,4.2,100+ ratings,5,Gaya City,No,Gaya
+Butler Box,North Indian- Chinese,NEW,,4,Gaya City,No,Gaya
+Pramod Laddu Bhandar -Tower Chowk,Indian,4.7,10+ ratings,4,Gaya City,No,Gaya
+The Cake Company,Bakery,2.6,3 ratings,5,Gaya City,Yes,Gaya
+Kake Di Hatti,North Indian- Tandoor,NEW,,4,Gaya City,Yes,Gaya
+7th Heaven Restaurant,Indian- Pizzas,2.7,6 ratings,4,Gaya City,Yes,Gaya
+Pramod Laddu Bhandar -Church Road,Indian- Sweets,4.7,20+ ratings,4,Gaya City,No,Gaya
+The Pizza Point,Pizzas- Burgers,2.2,9 ratings,5,Gaya City,Yes,Gaya
+Cake Culture,Bakery,3.5,7 ratings,5,Gaya City,Yes,Gaya
+Amazing Bakery,Bakery,3,6 ratings,5,Gaya City,Yes,Gaya
+Classic Bakery,Bakery,4.5,5 ratings,5,Gaya City,Yes,Gaya
+Om Kitchen,North Indian- Biryani,4.5,50+ ratings,5,Gaya City,Yes,Gaya
+Utsav Cake,Bakery,4,9 ratings,4,Gaya City,Yes,Gaya
+The Royalz Cafe Kitchen Club,Chinese- Fast Food,3.6,10+ ratings,5,Gaya City,No,Gaya
+Tarunika Foods & Confectionery,South Indian- Chinese,3.9,10+ ratings,4,Gaya City,Yes,Gaya
+Cake Creation,Bakery,--,Too Few Ratings,5,Gaya City,Yes,Gaya
+Rajasthan Bakery,Bakery,--,Too Few Ratings,5,Gaya City,Yes,Gaya
+Kadak Singh Da Dhaba,Chinese- Fast Food,NEW,,5,Gaya City,Yes,Gaya
+Custom Bakery,Bakery,--,Too Few Ratings,5,Gaya City,Yes,Gaya
+The Cup Cake,Bakery,--,Too Few Ratings,5,Gaya City,Yes,Gaya
+Celebration Cake & Bakery,Bakery,4.3,4 ratings,5,Gaya City,Yes,Gaya
+Taste In Moradabadi Restaurant,Chinese- Fast Food,NEW,,4,Gaya City,No,Gaya
+Tandoori Spice Restaurant,Chinese- Snacks,--,Too Few Ratings,4,Gaya City,No,Gaya
+BIRYANI KING A FAMILY RESTAURANT,Biryani- North Indian,NEW,,5,Gaya City,No,Gaya
+9 To 9 Biryani Street Food,North Indian- Chinese,3.2,7 ratings,5,Gaya City,No,Gaya
+New Biriyani Club,Biryani- Chinese,NEW,,5,Gaya City,No,Gaya
+Teste Affairs Restaurant,North Indian- Chinese,5,3 ratings,5,Gaya City,No,Gaya
+Bilu Pilu,Chinese- Indian,NEW,,5,Gaya City,No,Gaya
+Momo Amore,Chinese,3.2,9 ratings,4,Gaya city,Yes,Gaya
+Kebab Xpress,Snacks,2.8,3 ratings,4,Gaya City,No,Gaya
+Indian Masala House,Indian- Chinese,--,Too Few Ratings,4,Gaya City,No,Gaya
+Sardarji Malai Chaap Wale,Indian- Tandoor,3.1,20+ ratings,4,Gaya City,Yes,Gaya
+The Pastry Box,Bakery,--,Too Few Ratings,5,Gaya City,Yes,Gaya
+36 China Town,Chinese,NEW,,4,Gaya City,No,Gaya
+Pramodh Veg,North Indian- Chinese,NEW,,4,Gaya City,Yes,Gaya
+Aroma House,Indian,5,5 ratings,5,Gaya City,Yes,Gaya
+Burger Mafia,Burgers- Fast Food,--,Too Few Ratings,4,Gaya City,Yes,Gaya
+Mahalaxmi Sweets Pure Veg Restaurant,Sweets- North Indian,4.2,8 ratings,4,Gaya City,Yes,Gaya
+King Biryani House,Biryani- Fast Food,NEW,,5,Gaya City,No,Gaya
+Lal And Sons The Pizza Hub,Indian,3.3,5 ratings,4,Gaya City,Yes,Gaya
+The Jail Cafe And Restaurant,Cafe- North Indian,--,Too Few Ratings,4,Gaya City,No,Gaya
+Behruz Biryani,Kebabs- Desserts,NEW,,4,Gaya City,No,Gaya
+Al-Jazeerah,Indian- North Indian,NEW,,4,Gaya City,No,Gaya
+One Bite Gaya,Burgers- Pizzas,4.3,10+ ratings,5,Gaya City,No,Gaya
+Muskan Matka Biryani & Bhojnalaya,Snacks- Chinese,--,Too Few Ratings,4,Gaya City,No,Gaya
+Momos Style Cafe,Fast Food- Beverages,NEW,,5,Gaya City,No,Gaya
+Sujeet Fast Food,North Indian- Chinese,3.7,4 ratings,4,Gaya City,No,Gaya
+Burger & Momos,Burgers- Fast Food,NEW,,5,Gaya City,No,Gaya
+Seven Eleven Cake And Bakery,Bakery- Cakes and Pastries,NEW,,5,Gaya City,Yes,Gaya
+Rolls & Momo Cafe,Indian- Chinese,NEW,,5,Gaya City,No,Gaya
+Old Biryani House,Biryani- Snacks,3.8,20+ ratings,5,Gaya City,No,Gaya
+Yummy In Tummy Veg Restaurant,North Indian- Chinese,NEW,,4,Gaya City,Yes,Gaya
+Maharani Ice Cream Corner,Ice Cream,3.9,4 ratings,4,Gaya City,Yes,Gaya
+Ashirwad Bakery And Cake Shop,Bakery,2.8,5 ratings,4,Gaya City,Yes,Gaya
+Biryani Corner & Family Restaurant,Chinese- North Indian,3.8,1K+ ratings,4,Gaya City,No,Gaya
+Mitron Bite-Yaaron Ka Adda,Fast Food- Burgers,NEW,,4,Gaya City,Yes,Gaya
+Kubereshwar Bakery,Snacks- Pizzas,NEW,,4,Gaya City,Yes,Gaya
+Nasta Khana,South Indian- North Indian,NEW,,4,Gaya City,Yes,Gaya
+Albela Biryani,Biryani,4.4,10+ ratings,4,Gaya City,No,Gaya
+Mona Biryani And Fast Food Corner,Biryani- Chinese,--,Too Few Ratings,4,Gaya City,No,Gaya
+Veg Plaza Pramod Laddu,North Indian- South Indian,4.3,20+ ratings,4,Gaya City,Yes,Gaya
+Rasoighar Family Restaurant,North Indian- Chinese,3.8,3 ratings,5,Gaya City,Yes,Gaya
+Apna Manpasand Restaurant,Pizzas,2.3,5 ratings,5,Gaya City,No,Gaya
+Takway,Chinese- Snacks,NEW,,4,Gaya City,No,Gaya
+Spirant'S Chai,Chinese,4.1,10+ ratings,4,Gaya City,No,Gaya
+Mona Biryani,Italian- Chinese,--,Too Few Ratings,4,Gaya City,No,Gaya
+Bodhgaya City Cafe Restaurant,Mughlai- North Indian,--,Too Few Ratings,4,Gaya City,Yes,Gaya
+Sri Shree Ji Sweets,Sweets- Snacks,4.1,10+ ratings,5,Gaya City,Yes,Gaya
+1 Bite Pizza,Indian,--,Too Few Ratings,5,Gaya City,No,Gaya
+Delhi 6 Pure Veg,North Indian- Chinese,NEW,,4,Gaya City,Yes,Gaya
+Chaska Spice Affair,Indian- Fast Food,NEW,,5,Gaya City,Yes,Gaya
+Kwality Wall'S Ice Cream,Ice Cream- Fast Food,4.2,20+ ratings,5,Gaya City,Yes,Gaya
+Sanju Dhaba,Indian,5,3 ratings,4,Gaya City,No,Gaya
+Sanjay Kumar (Sanju Dhaba 2),Indian,--,Too Few Ratings,4,Gaya City,No,Gaya
+Bihari Dhaba UDIPI Darden,North Indian- Chinese,NEW,,5,Gaya City,Yes,Gaya
+The Jungle Family Restaurant,North Indian- Chinese,NEW,,5,Gaya City,No,Gaya
+Amit Daav Wala,Indian,--,Too Few Ratings,4,Gaya City,Yes,Gaya
+Prabhuji Snacks,North Indian- Pizzas,2.5,10+ ratings,4,Gaya City,Yes,Gaya
+Red 2 Chiili,Snacks- Chinese,--,Too Few Ratings,5,Gaya City,No,Gaya
+Dil Khush Family Restaurant & Fast Food,Chinese- Snacks,NEW,,4,Gaya City,No,Gaya
+Shri Krishana Sweets And Pizaa Point,Pizzas- Burgers,4.3,10+ ratings,5,Gaya City,No,Gaya
+Meghna Foods Bihari Dhaba,North Indian- South Indian,NEW,,5,Gaya City,Yes,Gaya
+Desi Street Restaurant And Cafe,North Indian- Chinese,--,Too Few Ratings,5,Gaya City,No,Gaya
+Bihari Pizza,Pizzas- Burgers,2.4,7 ratings,5,Gaya City,Yes,Gaya
+5 Start Close Kitchen,Chinese- North Indian,--,Too Few Ratings,5,Gaya City,Yes,Gaya
+Momo National World,Chinese- Pizzas,3.4,5 ratings,5,Gaya City,Yes,Gaya
+Shake Island,Beverages- Fast Food,NEW,,4,Gaya City,Yes,Gaya
+Burger Gossip,Burgers- Snacks,NEW,,4,Gaya City,No,Gaya
+Da Pizzeria House,Pizzas,NEW,,4,Gaya City,No,Gaya
+Da Chef'S Way Cafe,Fast Food,NEW,,4,Gaya City,Yes,Gaya
+Wraps & Roll,North Indian- Chinese,2.8,3 ratings,5,Gaya City,Yes,Gaya
+Champran Meat Housee,Indian- Chinese,--,Too Few Ratings,4,Gaya City,No,Gaya
+The Delicious Eating House,North Indian- Burgers,NEW,,4,Gaya City,Yes,Gaya
+Momomia,Chinese,4.2,20+ ratings,4,Gaya City,No,Gaya
+Sardar Ji Malai Chaap,Snacks- Tandoor,NEW,,4,Gaya City,No,Gaya
+Shalimar Biryani,Biryani,NEW,,5,Gaya City,No,Gaya
+The Biryani Chapter,Biryani- Chinese,--,Too Few Ratings,5,Gaya City,No,Gaya
+Veerji Malai Chaap Corner,Snacks,3.7,100+ ratings,5,Fazilpur,Yes,Gurgaon
+Elsa'S Cafe,Fast Food- Pizzas,3.7,7 ratings,5,Badshapur,No,Gurgaon
+Sweetness Everywhere,Sweets,2.6,6 ratings,5,Cyber City,Yes,Gurgaon
+Chaap Factory,North Indian- Snacks,--,Too Few Ratings,4,Fazilpur,Yes,Gurgaon
+The Licious Kitchen,North Indian- Kebabs,4,20+ ratings,5,Huda City,No,Gurgaon
+Barista Diner,Beverages- Fast Food,4.3,10+ ratings,5,Gurgaon,No,Gurgaon
+Spice Of Taj,Indian- South Indian,4.7,10+ ratings,5,Huda City,No,Gurgaon
+A1 Biryani And Restaurant,Biryani,2,20+ ratings,5,Cyber City,No,Gurgaon
+The Haleem Biryani,Biryani- Haleem,--,Too Few Ratings,5,Fazilpur,No,Gurgaon
+Nawabdaari,Indian- Biryani,4.6,10+ ratings,4,Huda City,No,Gurgaon
+Beyond Paratha'S,Indian- North Indian,--,Too Few Ratings,4,Gurgaon,Yes,Gurgaon
+Siya Ram Mithai,Sweets,--,Too Few Ratings,5,Cyber City,Yes,Gurgaon
+Taco Bell,Mexican,4.2,1K+ ratings,5,GS Road,No,Guwahati
+Metro Spice,Indian- Chinese,4.3,10K+ ratings,5,GS Road,No,Guwahati
+RJ Bistro,Chinese- Snacks,4.2,10K+ ratings,5,Zoo Tiniali,No,Guwahati
+Kori'S,Korean- Sushi,4.4,1K+ ratings,5,Zoo Tiniali,No,Guwahati
+Aamis,Indian- Snacks,3.3,10+ ratings,5,Bamunimaidan,No,Guwahati
+Vaibhavam Sweets & Restaurant,Sweets- North Indian,4.6,5K+ ratings,4,Zoo Tiniali,Yes,Guwahati
+Vanilla Grain,Bakery- Cafe,4.3,100+ ratings,5,Zoo Tiniali,Yes,Guwahati
+China Town Restaurant,Chinese,4.4,500+ ratings,4,Zoo Tiniali,No,Guwahati
+Freemason'S Brewworks,Indian- Italian-American,4.2,50+ ratings,5,GS Road,No,Guwahati
+Ascend (Resto Lounge Bar),Konkan- Pan-Asian,4.5,10+ ratings,5,GS Road,No,Guwahati
+The Guwahati Address By Centre Point,Bengali- Continental,4.4,100+ ratings,4,Zoo Tiniali,No,Guwahati
+Shanghai Salsa,Continental- Chinese,4.1,100+ ratings,4,Zoo Tiniali,No,Guwahati
+Guwahati Cake Decor,Bakery- Burgers,--,Too Few Ratings,5,Zoo Tiniali,Yes,Guwahati
+AFB (Assam'S Finest Burger),Burgers- Beverages,NEW,,4,Zoo Tiniali,Yes,Guwahati
+Dinner Delight (Food With Tradition,Chinese- Thalis,--,Too Few Ratings,4,Zoo Tiniali,No,Guwahati
+JBs,Sweets- South Indian,4.5,10K+ ratings,5,Fancy Bazar,Yes,Guwahati
+Rang De Basanti Dhaba - Diner,North Indian- Kebabs,4.3,10K+ ratings,5,GS Road,No,Guwahati
+Rolls Mania,Beverages,4.3,10K+ ratings,5,Zoo Tiniali,No,Guwahati
+Prabhuji Pure Food,Snacks- Sweets,4.4,100+ ratings,5,Zoo Tiniali,Yes,Guwahati
+AB'S - Absolute Barbecues,North Indian- Barbecue,4,1K+ ratings,5,GS Road,No,Guwahati
+Asian Wok,Asian,4.2,10+ ratings,4,Zoo Tiniali,No,Guwahati
+Express By Ab'S,North Indian- Barbecue,4,1K+ ratings,5,GS Road,No,Guwahati
+Kolkata Rolls,Snacks,4.2,1K+ ratings,4,Zoo Tiniali,No,Guwahati
+Fat Tiger,Burgers- Pizzas,4,100+ ratings,5,Fancy Bazar,No,Guwahati
+Aminia,Biryani- Mughlai,4.5,5K+ ratings,4,GS Road,No,Guwahati
+Hotel Millennium Restaurant,Indian- Mughlai,4.1,1K+ ratings,5,Athgaon,Yes,Guwahati
+The View Restaurant & Lounge,Chinese- Continental,4.4,1K+ ratings,4,Zoo Tiniali,No,Guwahati
+Uptown Escape Cafe,Japanese- Continental,4.2,100+ ratings,5,GS Road,No,Guwahati
+Addicted,Bakery- Snacks,4,1K+ ratings,5,Zoo Tiniali,Yes,Guwahati
+The Little Bistro,Chinese- Continental,4.4,500+ ratings,5,Zoo Tiniali,No,Guwahati
+Tipsy Tomato Pizzeria Pizza,Pizzas- Fast Food,4.3,100+ ratings,5,Zoo Tiniali,No,Guwahati
+Red Hot,Chinese- North Indian,4.2,10K+ ratings,5,Zoo Tiniali,No,Guwahati
+MMB Food Junction,Indian- Chinese,4.3,1K+ ratings,5,Zoo Tiniali,No,Guwahati
+House Of Spices,North Indian- Chinese,4.3,50+ ratings,5,Zoo Tiniali,No,Guwahati
+Food Of Indians - FOI,Chinese- Italian-American,4.7,3 ratings,4,Fancy Bazar,Yes,Guwahati
+Chai Piyo - Sports Cafe :: Restro :: Lounge,North Indian- Chinese,4.3,10+ ratings,5,Zoo Road,No,Guwahati
+The Whiskey Bar & Grill,Snacks- Asian,4.6,50+ ratings,4,Zoo Tiniali,No,Guwahati
+Green Lush,Juices- Salads,4.6,10+ ratings,4,Fancy Bazar,Yes,Guwahati
+Three Guys,Indian,4.4,500+ ratings,4,Zoo Tiniali,No,Guwahati
+Momo Ghar,Tibetan- Chinese,4.3,10K+ ratings,5,Zoo Tiniali,No,Guwahati
+Foodinghum,North Indian- Thalis,4.1,10K+ ratings,5,Zoo Tiniali,No,Guwahati
+Sweet Delicacy By Gauri,Bakery- Desserts,--,Too Few Ratings,4,Bamunimaidan,Yes,Guwahati
+Araz Flora Bakery,Bakery,3.3,3 ratings,4,Zoo Tiniali,Yes,Guwahati
+NB'S Kitchen,Chinese- Fast Food,--,Too Few Ratings,4,Zoo Tiniali,No,Guwahati
+One Stop Kitchen,Burgers- Fast Food,--,Too Few Ratings,4,Zoo Road,No,Guwahati
+Main Bhi Chai Wala,Chinese- Snacks,4.3,5 ratings,4,Zoo Tiniali,No,Guwahati
+Foodiya By Bhaswati,Chinese- Snacks,--,Too Few Ratings,4,Bamunimaidan,No,Guwahati
+King Rasoi,Chinese- Indian,3.7,20+ ratings,4,Zoo Tiniali,No,Guwahati
+Viswasaa,Bihari- Indian,--,Too Few Ratings,4,Bamunimaidan,No,Guwahati
+Juicy Point,Beverages,4.2,3 ratings,4,Zoo Tiniali,Yes,Guwahati
+Nostalgic Nohoru,Chinese- Assamese,4.4,20+ ratings,4,Zoo Tiniali,No,Guwahati
+Ahavah Ramen House,Chinese,4.6,10+ ratings,5,zoo road junali,No,Guwahati
+Caviar International,Indian- Continental,4.1,5 ratings,4,Zoo Tiniali,No,Guwahati
+Munkey Houzz,North Indian- Chinese,NEW,,4,GS Road,No,Guwahati
+M Square,North Indian- Chinese,3.5,7 ratings,4,Zoo Road,No,Guwahati
+Biryani Zone,Indian- Chinese,3.8,500+ ratings,4,Zoo Tiniali,No,Guwahati
+D'Vine,Snacks- South Indian,5,3 ratings,4,Zoo Tiniali,No,Guwahati
+Swadisht,Indian,3.7,10+ ratings,4,Zoo Tiniali,No,Guwahati
+The Food Mafia,North Indian- Chinese,5,9 ratings,4,Bamunimaidan,No,Guwahati
+Hooked,Indian- Chinese,4,7 ratings,4,Zoo Tiniali,No,Guwahati
+Flaming Kitchen,Chinese- Indian,4.1,100+ ratings,4,Zoo Tiniali,No,Guwahati
+Petu Kitchen,Indian,--,Too Few Ratings,4,Zoo Tiniali,No,Guwahati
+HYDERABADI BIRYANI CENTER,Biryani- Indian,2.5,20+ ratings,4,Zoo Road,No,Guwahati
+Cloud Momo,Chinese,--,Too Few Ratings,4,Zoo Tiniali,No,Guwahati
+MB Ahaar,Indian- North Indian,--,Too Few Ratings,4,Bamunimaidan,No,Guwahati
+US HOMEMADE,Bakery,--,Too Few Ratings,4,Zoo Road,Yes,Guwahati
+Grilled Panda,Chinese- North Indian,4.4,10+ ratings,5,Zoo Road,No,Guwahati
+Bhut Jolokia,Assamese- Thalis,3.8,1K+ ratings,4,Zoo Tiniali,No,Guwahati
+Cafe Maya,Indian- North Indian,4.4,50+ ratings,5,Gs Road,No,Guwahati
+Envo Cafe,Indian- Chinese,4.3,50+ ratings,5,GS Road,No,Guwahati
+Chufang The Kitchen,Chinese,4.5,1K+ ratings,5,Zoo Tiniali,No,Guwahati
+Iora Kitchen,Indian- Chinese,4.3,5K+ ratings,4,Zoo Tiniali,No,Guwahati
+Noodle King,Chinese- North Indian,2.7,4 ratings,5,Zoo Tiniali,No,Guwahati
+Wok In The Box,Chinese- Oriental,4.5,100+ ratings,5,Zoo Tiniali,No,Guwahati
+Yatai,Japanese- Asian,4.3,1K+ ratings,4,Zoo Tiniali,No,Guwahati
+Naga Dish,Thalis- North Indian,3.9,10+ ratings,4,Zoo Tiniali,No,Guwahati
+MU,Chinese,4.2,1K+ ratings,5,Zoo Tiniali,No,Guwahati
+Holiday Cafe,Chinese- Snacks,4.3,9 ratings,4,Zoo Tiniali,No,Guwahati
+Antara Kitchen,North Indian,4.3,1K+ ratings,5,Zoo Tiniali,No,Guwahati
+KEBAB STATION,Kebabs,4,20+ ratings,4,Zoo Tiniali,No,Guwahati
+Santa Fantasea,Seafood- Tribal,3.7,500+ ratings,5,Zoo Tiniali,No,Guwahati
+N2B Snacks & Fastfood,Chinese- Snacks,--,Too Few Ratings,4,Janakpur,No,Guwahati
+Cafe Around The World,Italian- Mexican,4.2,50+ ratings,4,Zoo Tiniali,No,Guwahati
+Volga Restaurant,North Indian- Mughlai,4.2,1K+ ratings,5,Jayendraganj,No,Gwalior
+Natural Ice Cream,Ice Cream- Desserts,NEW,,4,Gwalior,Yes,Gwalior
+Rajshree Misthan Bhandar,Sweets,4.3,6 ratings,1,Gwalior,Yes,Gwalior
+Nirankari Bakery,Bakery- Snacks,3.4,3 ratings,1,janakganj,No,Gwalior
+Kamiya Chocolate Bouquet,Ice Cream,4.3,20+ ratings,1,Khatipura Road,Yes,Jaipur
+Food Junction,Indian,NEW,,1,Central Gangapur,Yes,Jaipur
+Capital Cafe,Pizzas- Chinese,--,Too Few Ratings,2,Khatipura Road,No,Jaipur
+Old Town Coffee House,Beverages- Snacks,--,Too Few Ratings,1,Khatipura Road,No,Jaipur
+ANY TIME CAKE,Bakery,--,Too Few Ratings,1,Khatipura,No,Jaipur
+Riyano Kristy Kitchen,North Indian,4.4,100+ ratings,1,Khatipura Road,No,Jaipur
+Rajdhani Sweets,Sweets- South Indian,4.2,8 ratings,1,Khatipura Road,Yes,Jaipur
+Healthy Chef,Healthy Food,4.2,5K+ ratings,3,Healthy Chef,No,Jalandhar
+Ganesh Sweets And Cake House,Bakery- Street Food,4.1,500+ ratings,1,Pap Complex,Yes,Jalandhar
+Cafe Coffee Day,Beverages- Cafe,3.8,100+ ratings,4,Gandhi Nagar,No,Jammu
+Burger King,American,4.2,1K+ ratings,1,Gandhi Nagar,No,Jammu
+Eleven Spices,North Indian,4.3,1K+ ratings,5,Gandhi Nagar,No,Jammu
+Shiv Vaishno Dhaba,North Indian,4.1,1K+ ratings,2,Gandhi Nagar,Yes,Jammu
+Xero Degrees,Italian- Snacks,3.7,100+ ratings,1,Gandhi Nagar,No,Jammu
+Chinese Fast Food,Asian- Chinese,4,1K+ ratings,3,Gandhi Nagar,No,Jammu
+Drool Delivery,Chinese- Burgers,4.4,1K+ ratings,3,Gandhi Nagar,No,Jammu
+Vijay Dhaba,Indian- North Indian,4.2,1K+ ratings,3,Gandhi Nagar,Yes,Jammu
+Dadi Maa'S Kitchen,North Indian- Chinese,4.2,1K+ ratings,1,Gandhi Nagar,Yes,Jammu
+Bakers 'R' Us,Bakery,4.2,100+ ratings,1,Gandhi Nagar,Yes,Jammu
+Fun Bytes - Gandhi Nagar,Fast Food- Snacks,4,500+ ratings,3,Gandhi Nagar,No,Jammu
+Kwality'S Jalebi,North Indian,4.7,500+ ratings,1,Gandhi Nagar,Yes,Jammu
+Ganpati Food Junction,North Indian- South Indian,3.9,1K+ ratings,3,Gandhi Nagar,Yes,Jammu
+Tera Kitchen,North Indian- Biryani,3.7,20+ ratings,2,Gandhi Nagar,No,Jammu
+Vimpi'S Chicken,North Indian- Pizzas,4,1K+ ratings,4,Gandhi Nagar,No,Jammu
+Kohinoor,Indian- Chinese,4.2,100+ ratings,1,Gandhi Nagar,No,Jammu
+Mad Over Rolls,Continental- Snacks,4.3,500+ ratings,1,Gandhi Nagar,No,Jammu
+NU Momo Hut,Chinese,4.1,50+ ratings,1,Gandhi Nagar,No,Jammu
+My Shop Ferns N Petals,Bakery- Desserts,3.8,50+ ratings,1,Gandhi Nagar,Yes,Jammu
+Nick Bakers & Cafe,Bakery,3.7,100+ ratings,1,Gandhi Nagar,Yes,Jammu
+Abbott'S Cafe N Bistro,Italian-American- Beverages,4.3,50+ ratings,1,Gandhi Nagar,No,Jammu
+Vanilla Bean By Anu,Bakery- Desserts,4.4,50+ ratings,1,Gandhi Nagar,No,Jammu
+Beans Affair,Fast Food- Chinese,3.5,8 ratings,2,Gandhi Nagar,No,Jammu
+Legend Food,North Indian,4,100+ ratings,1,Gandhi Nagar,Yes,Jammu
+Freshco 32,North Indian,3.8,20+ ratings,1,Gandhi Nagar,Yes,Jammu
+Ashoka Fast Food,South Indian,3.5,500+ ratings,1,Gandhi Nagar,Yes,Jammu
+Delicacy Family Restaurant,North Indian,4.2,50+ ratings,2,Gandhi Nagar,No,Jammu
+Abhinandan Veg World,Pizzas- Burgers,4.9,5 ratings,2,Gandhi Nagar,Yes,Jammu
+Rangla Punjab,Indian- Chinese,4.2,1K+ ratings,2,Gandhi Nagar,No,Jammu
+Burger Maafia,Burgers- Italian,3.7,20+ ratings,3,Gandhi Nagar,No,Jammu
+Pahalwan Chicken Corner,Kashmiri- Mughlai,3.8,1K+ ratings,2,Gandhi Nagar,No,Jammu
+Roti Khaadi Kitchen,Indian- Fast Food,NEW,,2,Gandhi Nagar,Yes,Jammu
+KC Gourmet Kitchen,Seafood- Tandoor,3.6,50+ ratings,2,Gandhi Nagar,No,Jammu
+Kasturi & Nikka Halwai,Snacks- Beverages,4.3,20+ ratings,1,Gandhi Nagar,Yes,Jammu
+Amritsari Kulcha Junction,Indian- Pastas,3.2,20+ ratings,1,Gandhi Nagar,Yes,Jammu
+Plan B,Chinese- Beverages,4,10+ ratings,1,Gandhi Nagar,No,Jammu
+Pavman,Maharashtrian- Snacks,NEW,,1,Gandhi Nagar,No,Jammu
+Salad Of Eden,Salads,NEW,,1,Gandhi Nagar,No,Jammu
+Fry O Land,Snacks,NEW,,1,Gandhi Nagar,No,Jammu
+Hero Sandwich,Fast Food,NEW,,1,Gandhi Nagar,No,Jammu
+Dugar Dhaba,Chinese- Snacks,3.9,9 ratings,1,Gandhi Nagar,No,Jammu
+What A Sandwich,Fast Food,NEW,,1,Gandhi Nagar,No,Jammu
+Jai Hind Bakery,Bakery- Fast Food,4.4,50+ ratings,1,Gandhi Nagar,Yes,Jammu
+Rasalika,Fast Food- Kerala,4.3,100+ ratings,2,Gandhi Nagar,Yes,Jammu
+Sarwariya Sweet,Sweets- Italian,4.2,20+ ratings,2,Jeevanshah Chauraha,Yes,Jhansi
+Dilip Hotel Veg & Non Veg,North Indian,3.7,500+ ratings,3,Jeevanshah,No,Jhansi
+The Chinese Wok,Chinese- Biryani,4.3,500+ ratings,1,Bally,No,Kolkata
+Food Court,Indian- Chinese,3.7,1K+ ratings,1,Bally,No,Kolkata
+New Punjab Khalsa Hotel,Indian- Tandoor,4.2,10K+ ratings,1,Bally,No,Kolkata
+The Taste,Indian- North Indian,4.1,1K+ ratings,3,Bally,No,Kolkata
+New Sher-E-Punjab,Indian- Chinese,3.8,1K+ ratings,1,Bally,No,Kolkata
+Chinese Hub,Chinese- Beverages,4.2,5K+ ratings,3,Bally,No,Kolkata
+Kebabi,Kebabs- Grill,4.4,100+ ratings,1,Bally,No,Kolkata
+China Gaon,Chinese- Indian,3.8,5K+ ratings,5,Bally,No,Kolkata
+Foodie'S Heaven,Italian- Chinese,2.3,5 ratings,2,Bally,No,Kolkata
+Hungry Hippo,Fast Food- Italian,2.6,20+ ratings,2,Bally,No,Kolkata
+Burger Wala,Burgers- Italian,2.1,10+ ratings,2,Bally,No,Kolkata
+Burger Brothers,Fast Food- Snacks,4,100+ ratings,2,Bally,No,Kolkata
+Foodland Bally,Snacks- Chinese,4,100+ ratings,2,Bally,No,Kolkata
+New Royal Biryani,Biryani,3.3,5 ratings,1,Bally,No,Kolkata
+CHA CULTURE,Beverages- Snacks,4.3,9 ratings,4,Bally,No,Kolkata
+Mucktoo,Chinese,4.4,100+ ratings,5,Bally,No,Kolkata
+Kolkata Taj Biryani,Biryani- North Indian,3.4,10+ ratings,1,Bally,No,Kolkata
+Soumya'S Kitchen,North Indian,3.7,500+ ratings,1,Bally,No,Kolkata
+Hotel Orbit,Tandoor- Biryani,4.1,100+ ratings,2,Bally,No,Kolkata
+Kalpataru Hotel & Restaurant,Indian,3.8,500+ ratings,1,Bally,No,Kolkata
+A-One Haji Biryani,Biryani,3.2,4 ratings,3,Bally,No,Kolkata
+Foodbox.Com,Chinese- Fast Food,3.8,100+ ratings,3,Bally,No,Kolkata
+Momo Park,Indian- Chinese,4,100+ ratings,3,Bally,No,Kolkata
+Zaffran Biryani,Biryani- Mughlai,3.9,1K+ ratings,2,Bally,No,Kolkata
+Food Heist,Indian,3.9,3 ratings,2,Bally,No,Kolkata
+Book E Coffee,British- American,2.1,10+ ratings,1,Bally,No,Kolkata
+Cha-A-Adda,Italian-American- Chinese,2.7,10+ ratings,2,Bally,No,Kolkata
+Bake Oven,Italian- Fast Food,3.9,3 ratings,2,Bally,No,Kolkata
+Online Chai Wala,Pizzas- Fast Food,3.5,5 ratings,2,Bally,No,Kolkata
+Jioooo Food,Chinese,--,Too Few Ratings,1,Bally,No,Kolkata
+Cheesy Dynasty,Italian-American- Fast Food,--,Too Few Ratings,2,Bally,No,Kolkata
+Cafe HOWRAH,Beverages,1.5,3 ratings,2,Bally,No,Kolkata
+The Back Bencher Cafe,Beverages- Italian-American,1.7,3 ratings,2,Bally,No,Kolkata
+The Foodies Story,Italian-American- Chinese,--,Too Few Ratings,2,Bally,No,Kolkata
+Saloni'S Cafeteria,Italian-American- Chinese,--,Too Few Ratings,2,Bally,No,Kolkata
+Cheesy Kitchen,Pizzas- Fast Food,--,Too Few Ratings,2,Bally,No,Kolkata
+Italiano Foodies,Italian- Chinese,--,Too Few Ratings,2,Bally,No,Kolkata
+Matka E Cheese,Italian- Chinese,--,Too Few Ratings,3,Bally,No,Kolkata
+Raastaa Momo,Chinese,5,3 ratings,1,Bally,No,Kolkata
+Mousumis Cafe,Fast Food- Snacks,4,4 ratings,2,Bally,No,Kolkata
+Yummy Adda Cafe & Restaurant,Indian,1.9,6 ratings,1,Bally,No,Kolkata
+Reda Right Taste,North Indian- Chinese,4.1,4 ratings,2,Bally,No,Kolkata
